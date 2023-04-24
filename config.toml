@@ -2,3 +2,6 @@ baseURL = 'http://example.org/'
 languageCode = 'en-uk'
 title = "CutThroat's Digital Garden"
 theme = "hugo-theme-techdoc"
+
+[params]
+  menu_style = "open-menu"
