@@ -1,3 +1,5 @@
+# CutThroat's Digital Garden
+
 - [GitHub](https://github.com/cutthroat78)
 - [Blog Posts](#blog-posts)
 - [Projects](#projects)
