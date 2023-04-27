@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-uk'
 title = "CutThroat's Digital Garden"
-theme = "hugo-theme-techdoc"
+theme = "shadocs"
