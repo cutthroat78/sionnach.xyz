@@ -4,7 +4,5 @@ title = "CutThroat's Digital Garden"
 theme = "shadocs"
 
 [params]
-  logo = "images/icon.png"
-  logoTouch = "images/icon.png"
   favicon = "images/icon.png"
   toc = true
