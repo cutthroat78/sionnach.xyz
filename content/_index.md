@@ -1,9 +1,6 @@
 # CutThroat's Digital Garden
 
 - [GitHub](https://github.com/cutthroat78)
-- [Blog Posts](#blog-posts)
-- [Projects](#projects)
-- [Associations](#associations)
 
 This website contains (a small amount of) details about me and what I do and contains my blog that I use to talk about:
 - Linux/FOSS
