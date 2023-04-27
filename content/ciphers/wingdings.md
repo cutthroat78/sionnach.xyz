@@ -16,13 +16,15 @@ Wingdings is a series of [dingbat](https://en.wikipedia.org/wiki/Dingbat) fonts 
 
 ### Wingdings 1 in Undertale
 
-In the game [Undertale](https://undertale.com/about/), there are some easter eggs with a character named [W.D. Gaster](https://undertale.fandom.com/wiki/W._D._Gaster) who uses Wingdings 1 in their text dialogues. One thing to note is that W.D. Gaster only uses uppercase characters in their text dialogues and never uses lowercase. [All W.D. Gaster Encounters in Undertale - YouTube](https://youtube.com/watch?v=3C1cvPaaoiU)
+In the game [Undertale](https://undertale.com/about/), there are some easter eggs with a character named [W.D. Gaster](https://undertale.fandom.com/wiki/W._D._Gaster) who uses Wingdings 1 in their text dialogues. One thing to note is that W.D. Gaster only uses uppercase characters in their text dialogues and never uses lowercase. It seems some people were introduced to Wingdings (1) and introduced to using it as a cipher from seeing it in Undertale. 
+
+- [All W.D. Gaster Encounters in Undertale - YouTube](https://youtube.com/watch?v=3C1cvPaaoiU)
 
 ## Webdings
 
 Webdings is a TrueType [dingbat](https://en.wikipedia.org/wiki/Dingbat) typeface developed in 1997. It was initially distributed with Internet Explorer 4.0, then as part of Core fonts for the Web, and is included in all versions of Microsoft Windows since Windows 98.
 
-![Wingdings 1,2,3 and Webdings Chart Image](/images/wingdings-chart.png)
+![Wingdings 1,2,3 and Webdings Chart Image](wingdings-chart.png)
 
 <!--
 Use TTF files for characters in character column in each table
