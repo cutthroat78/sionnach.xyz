@@ -1,4 +1,3 @@
-baseURL = '/'
 languageCode = 'en-uk'
 title = "CutThroat's Digital Garden"
 theme = "docdock"

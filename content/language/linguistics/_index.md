@@ -1,1 +1,3 @@
-# Linguistics
+---
+title: "Linguistics"
+---
