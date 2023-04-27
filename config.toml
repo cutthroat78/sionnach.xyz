@@ -1,7 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-uk'
 title = "CutThroat's Digital Garden"
-theme = "docdock"
-
-[params]
-disableNavChevron = true
+theme = "hugo-theme-techdoc"
