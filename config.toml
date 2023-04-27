@@ -7,5 +7,4 @@ theme = "shadocs"
   logo = "images/icon.png"
   logoTouch = "images/icon.png"
   favicon = "images/icon.png"
-  globalbanner = false
   toc = true
