@@ -1,19 +1,15 @@
 # CutThroat's Digital Garden
 
-- [GitHub](https://github.com/cutthroat78)
+<!--
+- Intro and About Me
+  - Hi, I am CutThroat and this is my Digital Garden! If you don't know what a Digital Garden or Second Brain is then I recommend checking out this [page](digital-gardens/_index.md)
+- Add Reasons Why and What I Use This Digital Garden For Heading and Content
+- Add Warnings/Things to Note Heading and Content
+-->
 
-This website contains (a small amount of) details about me and what I do and contains my blog that I use to talk about:
-- Linux/FOSS
-- Reviews (Video Games, Movies, TV Shows, Software, Books, etc.)
-- (Human) Languages (and Linguistics)
-- Updates on My Projects
-- Anything Else I Feel Like Writing About
+- [My GitHub Account](https://github.com/cutthroat78)
 
-## Blog Posts
-
-<!--[##/##/#### - Category: Title]()-->
-
-## Projects
+## My Projects
 
 - [Leaving Cert Notes](https://cutthroat78.github.io/Leaving-Cert-Notes) - [Repo](https://github.com/cutthroat78/Leaving-Cert-Notes) -  A repo full of notes for the (Irish) Leaving Cert
 - [LibreLingo](https://librelingo.app/) - [Repo](https://github.com/LibreLingo/LibreLingo) - A community-owned language-learning platform. Created by [Kantord](https://github.com/kantord). I am making LibreLingo courses and I have helped with the project
@@ -25,7 +21,7 @@ This website contains (a small amount of) details about me and what I do and con
   - [Language Learning Resources Anki Decks](https://github.com/cutthroat78/Language-Learning-Resources/releases)
   - [Branches of Science Anki Deck](https://github.com/cutthroat78/Branches-of-Science-Anki-Deck)
 
-## Associations
+## My Associations
 
 - [Dublin Linux Community](https://dublinlinux.org/)
 - [LibreLingo](https://github.com/LibreLingo/LibreLingo)
