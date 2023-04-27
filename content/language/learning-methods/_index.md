@@ -1,3 +1,1 @@
----
-title: "Learning Methods"
----
+# Learning Methods
