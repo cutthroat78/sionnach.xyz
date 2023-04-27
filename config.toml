@@ -2,3 +2,6 @@ baseURL = 'https://cutthroat78.github.io/digital-garden/'
 languageCode = 'en-uk'
 title = "CutThroat's Digital Garden"
 theme = "docdock"
+
+[params]
+disableNavChevron = true
