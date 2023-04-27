@@ -1,3 +1,7 @@
 ---
-title: "Linguistics"
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
+draft: true
 ---
+
+# Linguistics
