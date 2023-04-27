@@ -2,3 +2,10 @@ baseURL = 'http://example.org/'
 languageCode = 'en-uk'
 title = "CutThroat's Digital Garden"
 theme = "shadocs"
+
+[params]
+  logo = "images/icon.png"
+  logoTouch = "images/icon.png"
+  favicon = "images/icon.png"
+  globalbanner = false
+  toc = true
