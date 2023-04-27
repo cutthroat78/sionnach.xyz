@@ -1,1 +1,3 @@
-# Learning Methods {#title_ID}
+---
+title: "Learning Methods"
+---
