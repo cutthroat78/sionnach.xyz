@@ -1,4 +1,4 @@
-baseURL = 'https://cutthroat78.github.io/digital-garden/'
+baseURL = 'http://example.org/'
 languageCode = 'en-uk'
 title = "CutThroat's Digital Garden"
 theme = "docdock"
