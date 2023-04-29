@@ -55,6 +55,11 @@ Use TTF files for characters in character column in each table
 
 ## Links
 - [Wingdings (1) Memrise Course (By Julia352)](https://app.memrise.com/course/914939/wingdings/)
+- dCode
+  - [Wingdings 1 Font Translator](https://www.dcode.fr/wingdings-font)
+  - [Wingdings 2 Font Translator](https://www.dcode.fr/wingdings-2-font)
+  - [Wingdings 3 Font Translator](https://www.dcode.fr/wingdings-3-font)
+  - [Webdings Font Translator](https://www.dcode.fr/webdings-font)
 - [Wingdings Translator.com](https://wingdingstranslator.com/)
   - [Wingdings and Undertale: W.D. Gaster’s Alphabet and Translator - Wingdings Translator.com](https://wingdingstranslator.com/undertale/)
 - [Android App: Gaster Dingbats: Wingdings translator (has Wingdings (1, 2 & 3) & Webdings)](https://play.google.com/store/apps/details?id=net.blackenvelope.write.dingbats)
