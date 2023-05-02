@@ -1,4 +1,6 @@
-# LGBTQ
+---
+title: "LGBTQ"
+---
 
 LGBTQ is
 
