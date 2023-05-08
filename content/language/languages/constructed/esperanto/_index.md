@@ -4,7 +4,7 @@ title: "Esperanto"
 
 Esperanto is a constructed international auxiliary language created by L. L. Zamenhof in 1887. It is the most successful constructed language. 
 
-Esperanto is derived from [Romance](/language/languages/natural/romantic/_index.md) and some [Germanic](/language/languages/natural/germanic/_index.md) languages, which means it is quite easy for speakers of these languages to pickup Esperanto.
+Esperanto is derived from [Romance](/language/languages/natural/romantic/) and some [Germanic](/language/languages/natural/germanic/) languages, which means it is quite easy for speakers of these languages to pickup Esperanto.
 
 <!--Add stuff about study where people knew French when learning Esperanto first-->
 
