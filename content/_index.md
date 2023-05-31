@@ -1,8 +1,8 @@
-# CutThroat's Digital Garden
+# Sionnach's Digital Garden
 
 <!--
 - Intro and About Me
-  - Hi, I am CutThroat and this is my Digital Garden! If you don't know what a Digital Garden or Second Brain is then I recommend checking out this [page](digital-gardens/_index.md)
+  - Hi, I am Sionnach and this is my Digital Garden! If you don't know what a Digital Garden or Second Brain is then I recommend checking out this [page](digital-gardens/_index.md)
 - Add Reasons Why and What I Use This Digital Garden For Heading and Content
 - Add Warnings/Things to Note Heading and Content
 -->
