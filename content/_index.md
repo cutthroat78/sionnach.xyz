@@ -9,7 +9,7 @@
 
 Hello, I call myself Sionnach online and this is my website that I mainly use to host my [digital garden](./digital-gardens/_index.md).
 
-I don't really like revealing much about myself or putting/talking about myself online, but I will list some stuff about me below.
+I don't really like talking/revealing much about myself, but I will list some stuff about me below.
 
 ### Interests
 
