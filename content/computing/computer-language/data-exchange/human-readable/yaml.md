@@ -6,7 +6,7 @@ YAML is a human-readable data-serialization language that is commonly used for c
 
 I have seen YAML stand for "Yet Another Markup Language", however YAML's [official website](https://yaml.org/) says it stands for "YAML Ain’t Markup Language"
 
-# Links
+## Links
 - [YAML - Wikipedia](https://en.wikipedia.org/wiki/YAML)
 - [yaml.org - YAML Official Website](https://yaml.org/)
   - [YAML Reference Card](https://yaml.org/refcard.html)

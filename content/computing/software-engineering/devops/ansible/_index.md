@@ -2,13 +2,13 @@
 title: "Ansible"
 ---
 
-# Intro to Ansible
+## Intro to Ansible
 
-## What is Ansible
+### What is Ansible
 
 Ansible is an open-source automation tool that can describe and build IT infrastructure with [YAML](./../../../computer-language/data-exchange/human-readable/yaml.md). It is one of the most popular tools for configuration. Its use of declarative push-based [YAML](./../../../computer-language/data-exchange/human-readable/yaml.md) that allows servers to be automated with more efficiency and less chance of human error occurring.
 
-## Things Ansible Can Do
+### Things Ansible Can Do
 
 - Provisioning
 - Configuration Management
@@ -16,7 +16,7 @@ Ansible is an open-source automation tool that can describe and build IT infrast
 - Application Deployment
 - Security Compliance
 
-## Ansible vs. Scripting
+### Ansible vs. Scripting
 
 Scripting often requires:
 - Time
@@ -28,12 +28,12 @@ In comparison, Ansible (is):
 - Agentless
 - Doesn't require coding skills
 - Doesn't require maintenance
-- Often has fewer lines of code than a script doing the same thing would have
+- Often has fewer lines of code than a script doing the same task would have
 - Powerful enough to build and automate even the most complex deployments
 
 ![Scripts vs Ansible Playbook](/images/ansible-vs-scripts.png)
 
-# Links
+## Links
 - [Ansible - Wikipedia](https://en.wikipedia.org/wiki/Ansible_(software))
 - [Ansible Documentation](https://docs.ansible.com/)
 - [Ansible Official Website](https://www.ansible.com/)

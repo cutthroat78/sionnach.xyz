@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-uk'
-title = "CutThroat's Digital Garden"
+title = "Sionnach's Digital Garden"
 theme = "shadocs"
 
 [params]

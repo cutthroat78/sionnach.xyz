@@ -8,7 +8,7 @@ Esperanto is derived from [Romance](/language/languages/natural/romantic/) and s
 
 <!--Add stuff about study where people knew French when learning Esperanto first-->
 
-# Links
+## Links
 
 - [Esperanto - Wikipedia](https://en.wikipedia.org/wiki/Esperanto)
 - [Esperanto - Simple English Wikipedia](https://simple.wikipedia.org/wiki/Esperanto)
