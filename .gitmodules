@@ -1,3 +1,3 @@
-[submodule "themes/shadocs"]
-	path = themes/shadocs
-	url = https://github.com/jgazeau/shadocs.git
+[submodule "themes/hugo-digital-gardenscape-theme"]
+	path = themes/hugo-digital-gardenscape-theme
+	url = https://github.com/cutthroat78/hugo-digital-gardenscape-theme

@@ -1,5 +1,8 @@
 ---
 title: "Digital Gardens / Second Brains"
+tags: [
+  "digital-gardens",
+]
 ---
 
 A Digital Garden/Second Brain is _

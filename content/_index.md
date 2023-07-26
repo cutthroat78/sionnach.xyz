@@ -1,10 +1,7 @@
-# Sionnach's Digital Garden
-
 <!--
 - Add Reasons Why and What I Use This Digital Garden For - Heading and Content
 - Add Warnings/Things to Note - Heading and Content
 -->
-
 ## About Me
 
 Hello, I call myself Sionnach online and this is my website that I mainly use to host my [digital garden](./digital-gardens/_index.md).
