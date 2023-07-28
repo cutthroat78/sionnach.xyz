@@ -1,5 +1,8 @@
 ---
 title: "Git"
+tags: [
+  "distributed-version-control",
+]
 ---
 
 ## Commands/How Tos

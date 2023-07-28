@@ -7,32 +7,14 @@
 -->
 ## About Me
 
-Hello, I call myself Sionnach online and this is my website that I mainly use to host my [digital garden](./digital-gardens/_index.md).
+Hello, I call myself Sionnach online and this is my website that I mainly use to host my [digital garden](./digital-gardens/_index.md)
 
-I don't really like talking/revealing much about myself, but I will list some stuff about me below.
+I don't really like talking/revealing much about myself, but the contents of my digital garden should give you an idea on things I like (though I do like learning in general (about anything and everything))
 
-### Interests
-
-- Computing/IT
-  - Linux
-  - FOSS/FLOSS
-  - Privacy
-  - Security
-- Language
-  - Linguistics
-  - Language Learning
-- Music
-  - Listening
-  - Instrument Playing
-  - Production
-
-<!--### Contact
-
-Email:-->
-
-### Accounts
+### Accounts and Contact
 
 - [GitHub](https://github.com/cutthroat78)
+<!--Email:-->
 
 ### Projects
 

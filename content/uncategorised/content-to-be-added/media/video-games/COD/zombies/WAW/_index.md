@@ -1,3 +1,0 @@
----
-title: "World At War"
----

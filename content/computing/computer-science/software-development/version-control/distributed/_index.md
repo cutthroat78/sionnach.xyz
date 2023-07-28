@@ -1,3 +1,0 @@
----
-title: "Distributed Version Control"
----
