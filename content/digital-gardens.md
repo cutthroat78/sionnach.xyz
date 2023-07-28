@@ -1,11 +1,11 @@
 +++
-title: "Digital Gardens / Second Brains"
+title: "Digital Gardens"
 tags: [
   "digital-gardens",
 ]
 +++
 
-A Digital Garden/Second Brain is _
+A Digital Garden is <!--To Do-->
 
 <!--(see and write stuff about zettlekastens)
 
@@ -23,9 +23,7 @@ A Digital Garden/Second Brain is _
 
 (wiki software)
 - Advantages
-- Disadvantages
-
--->
+- Disadvantages-->
 
 ## Links
 
