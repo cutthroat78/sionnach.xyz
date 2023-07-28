@@ -1,6 +1,7 @@
 ---
 title: "Ansible"
 tags: [
+  "FOSS",
   "computing",
   "software-engineering",
   "devops",

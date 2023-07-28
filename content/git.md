@@ -1,6 +1,7 @@
 ---
 title: "Git"
 tags: [
+  "FOSS",
   "computing",
   "computer-science",
   "software-development",
