@@ -1,12 +1,17 @@
 ---
 title: "Ansible"
+tags: [
+  "computing",
+  "software-engineering",
+  "devops",
+]
 ---
 
 ## Intro to Ansible
 
 ### What is Ansible
 
-Ansible is an open-source automation tool that can describe and build IT infrastructure with [YAML](./../../../computer-language/data-exchange/human-readable/yaml.md). It is one of the most popular tools for configuration. Its use of declarative push-based [YAML](./../../../computer-language/data-exchange/human-readable/yaml.md) that allows servers to be automated with more efficiency and less chance of human error occurring.
+Ansible is an open-source automation tool that can describe and build IT infrastructure with [YAML]({{< ref yaml.md >}}). It is one of the most popular tools for configuration. Its use of declarative push-based [YAML]({{< ref yaml.md >}}) that allows servers to be automated with more efficiency and less chance of human error occurring.
 
 ### Things Ansible Can Do
 

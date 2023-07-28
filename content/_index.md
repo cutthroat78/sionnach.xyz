@@ -7,7 +7,7 @@
 -->
 ## About Me
 
-Hello, I call myself Sionnach online and this is my website that I mainly use to host my [digital garden]({{<ref digital-gardens.md >}})
+Hello, I call myself Sionnach online and this is my website that I mainly use to host my [digital garden]({{< ref digital-gardens.md >}})
 
 I don't really like talking/revealing much about myself, but the contents of my digital garden should give you an idea on things I like (though I do like learning in general (about anything and everything))
 

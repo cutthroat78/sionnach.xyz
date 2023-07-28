@@ -1,6 +1,10 @@
 ---
 title: "Git"
 tags: [
+  "computing",
+  "computer-science",
+  "software-development",
+  "version-control",
   "distributed-version-control",
 ]
 ---

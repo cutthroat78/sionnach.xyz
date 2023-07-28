@@ -1,5 +1,12 @@
 ---
 title: "Microsoft Dingbat Fonts"
+tags: [
+  "cryptography",
+  "ciphers",
+  "computer-fonts",
+  "dingbats",
+  "dingbat-fonts",
+[
 ---
 
 The Microsoft Dingbat Fonts include the fonts:
