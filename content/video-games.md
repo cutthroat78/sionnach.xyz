@@ -1,11 +1,11 @@
-+++
+---
 title: "Video Games"
 tags: [
   "media",
   "ratings",
   "reviews",
 ]
-+++
+---
 
 <!--|  | No |  | No | No | No | /10 |  |  |-->
 
