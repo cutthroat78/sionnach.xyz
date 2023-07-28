@@ -1,5 +1,5 @@
 ---
-title: "Digital Gardens"
+title: "Digital Gardens / Second Brains"
 tags: [
   "digital-gardens",
 ]

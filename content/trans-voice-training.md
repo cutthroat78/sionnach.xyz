@@ -1,5 +1,5 @@
 ---
-title: "Trans Voice Training/Therapy"
+title: "Trans Voice Training / Trans Voice Therapy"
 tags: [
   "transgenderism",
   "LGBTQ+",

@@ -1,5 +1,5 @@
 ---
-title: "NATO Phonetic Alphabet/(International) Radiotelephony Spelling Alphabet"
+title: "NATO Phonetic Alphabet / (International) Radiotelephony Spelling Alphabet"
 tags: [
   "language",
   "writing-systems",
