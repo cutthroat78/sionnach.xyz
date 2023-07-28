@@ -5,6 +5,7 @@ tags: [
   "computer-language",
   "data-exchange",
   "human-readable-data-exchange-formats",
+]
 ---
 
 YAML is a human-readable data-serialization language that is commonly used for configuration files and for storing or transmitting data in applications

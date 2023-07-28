@@ -6,7 +6,7 @@ tags: [
   "computer-fonts",
   "dingbats",
   "dingbat-fonts",
-[
+]
 ---
 
 The Microsoft Dingbat Fonts include the fonts:
