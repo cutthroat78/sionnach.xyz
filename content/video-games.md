@@ -16,6 +16,12 @@ tags: [
 
 ## Franchises
 
+### Call of Duty
+
+| Video Game | Played? | Platform Played On | Finished? | Finished 100%? | Gotten All (Platform) Achievements? | Rating | Review/Comment | Note(s)/Link(s) |
+|-|-|-|-|-|-|-|-|-|
+|  |  |  |  |  |  |  |  |  |
+
 ### Hitman
 
 | Video Game | Played? | Platform Played On | Finished? | Finished 100%? | Gotten All (Platform) Achievements? | Rating | Review/Comment | Note(s)/Link(s) |

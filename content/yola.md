@@ -3,6 +3,7 @@ title: "Yola"
 tags: [
   "language",
   "germanic-languages",
+  "yola",
 ]
 ---
 

@@ -4,6 +4,9 @@ tags: [
   "language",
   "writing-systems",
   "spelling-alphabets",
+  "nato-phonetic-alphabet",
+  "radiotelephony-spelling-alphabet"
+  "international-radiotelephony-spelling-alphabet"
 ]
 ---
 

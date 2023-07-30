@@ -3,6 +3,7 @@ title: "Esperanto"
 tags: [
   "language",
   "constructed-languages",
+  "esperanto",
 ]
 ---
 
