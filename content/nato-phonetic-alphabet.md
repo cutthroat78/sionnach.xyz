@@ -5,8 +5,8 @@ tags: [
   "writing-systems",
   "spelling-alphabets",
   "nato-phonetic-alphabet",
-  "radiotelephony-spelling-alphabet"
-  "international-radiotelephony-spelling-alphabet"
+  "radiotelephony-spelling-alphabet",
+  "international-radiotelephony-spelling-alphabet",
 ]
 ---
 
