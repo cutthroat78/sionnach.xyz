@@ -9,7 +9,8 @@ tags: [
   "video-editing",
   "video",
   "image-manipulation",
-[
+]
+---
 
 I have found two definitions for the term "Data Moshing"
 
