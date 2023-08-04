@@ -15,7 +15,9 @@ I don't really like talking/revealing much about myself, but the contents of my 
 ### Accounts and Contact
 
 - [GitHub](https://github.com/cutthroat78)
-<!--Email:-->
+- Email: contact-sionnach.truffle781[AT]slmails.com
+  - Swap ```[AT]``` with ```@``` before using above address
+  - The above address is an [SimpleLogin](https://simplelogin.io) email alias
 
 ### Projects
 
