@@ -1,8 +1,9 @@
 ---
 Title: "Meditation"
-tags: [ 
+tags: [
   "meditation",
   "mindfulness",
+]
 ---
 
 ## Links
