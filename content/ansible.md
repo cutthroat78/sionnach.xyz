@@ -5,6 +5,7 @@ tags: [
   "computing",
   "software-engineering",
   "devops",
+  "ansible",
 ]
 ---
 
@@ -41,7 +42,7 @@ In comparison, Ansible (is):
 
 ## Installing Ansible
 
-Always check [Official Documentation's Installation Guide](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) to get the latest info on how to install ansible
+Always check the [Official Documentation's Installation Guide](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) to get the latest info on how to install ansible
 
 ## Inventory
 

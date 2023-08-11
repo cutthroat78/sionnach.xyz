@@ -3,6 +3,8 @@ Title: "Meditation"
 tags: [
   "meditation",
   "mindfulness",
+  "mental-health",
+  "health",
 ]
 ---
 
