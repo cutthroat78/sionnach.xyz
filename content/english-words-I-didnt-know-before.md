@@ -10,31 +10,108 @@ tags: [
 
 This list was started on 27/05/2023
 
-| Word | Link(s) |
-|-|-|
-| defenestration | Find Links |
-| compersion | Find Links |
-| gestate |  |
-| laconic |  |
-| consign (as a verb) | Find Links |
-| consignment | Find Links |
-| prognostication |  |
-| frugal |  |
-| contretemps | Find Links |
-| custodian |  |
-| fallible | Find Links |
-| infallible | Find Links |
-| motive (as an adjective) |  |
-| confute | Find Links |
-| communiqué | Find Links |
-| scintillate |  |
-| mutiny |  |
-| downtrodden |  |
-| veracity |  |
-| regicide |  |
-| cutaneous |  |
-| haplotype |  |
-| petrichor |  |
-| pedant |  |
-| tattoo (as definition of "military show") |  |
-| funicular |  |
+Some words on this list I may have heard before and/or might have had some idea on how to use them, but I didn't fully understand them or know how to use them properly
+
+All links below link to that word's entry on [OneLook](https://onelook.com/), which is a website that lists dictionaries that include the word or term looked up
+
+<!--
+- [](https://www.onelook.com/?w= &ls=a)
+-->
+
+- [defenestration](https://www.onelook.com/?w=defenestration&ls=a)
+- [compersion](https://www.onelook.com/?w=compersion&ls=a)
+- [gestate](https://www.onelook.com/?w=gestate&ls=a)
+- [laconic](https://www.onelook.com/?w=laconic&ls=a)
+- [consign](https://www.onelook.com/?w=consign&ls=a)
+- [consignment](https://www.onelook.com/?w=consignment&ls=a)
+- [prognostication](https://www.onelook.com/?w=prognostication&ls=a)
+- [frugal](https://www.onelook.com/?w=frugal&ls=a)
+- [contretemps](https://www.onelook.com/?w=contretemps&ls=a)
+- [custodian](https://www.onelook.com/?w=custodian&ls=a)
+- [fallible](https://www.onelook.com/?w=fallible&ls=a)
+- [infallible](https://www.onelook.com/?w=infallible&ls=a)
+- [motive (as an adjective: "producing or causing movement")](https://www.onelook.com/?w=motive&ls=a)
+- [confute](https://www.onelook.com/?w=confute&ls=a)
+- [communiqué](https://www.onelook.com/?w=communique&ls=a)
+- [scintillate](https://www.onelook.com/?w=scintillate&ls=a)
+- [mutiny](https://www.onelook.com/?w=mutiny&ls=a)
+- [downtrodden](https://www.onelook.com/?w=downtrodden&ls=a)
+- [veracity](https://www.onelook.com/?w=veracity&ls=a)
+- [regicide](https://www.onelook.com/?w=regicide&ls=a)
+- [cutaneous](https://www.onelook.com/?w=cutaneous&ls=a)
+- [haplotype](https://www.onelook.com/?w=haplotype&ls=a)
+- [petrichor](https://www.onelook.com/?w=petrichor&ls=a)
+- [pedant](https://www.onelook.com/?w=pedant&ls=a)
+- [tattoo (as definition of "military show")](https://www.onelook.com/?w=tattoo&ls=a)
+- [funicular](https://www.onelook.com/?w=funicular&ls=a)
+- [dichotomy](https://onelook.com/?w=dichotomy&ls=a)
+- [curtail](https://www.onelook.com/?w=curtail&ls=a)
+- [nubile](https://www.onelook.com/?w=nubile&ls=a)
+- [languid](https://www.onelook.com/?w=languid&ls=a)
+- [serene](https://www.onelook.com/?w=serene&ls=a)
+- [opulence](https://www.onelook.com/?w=opulence&ls=a)
+- [covet](https://www.onelook.com/?w=covet&ls=a)
+- [atelier](https://www.onelook.com/?w=atelier&ls=a)
+- [opine](https://www.onelook.com/?w=opine&ls=a)
+- [equilibrate](https://www.onelook.com/?w=equilibrate&ls=a)
+- [poise](https://www.onelook.com/?w=poise&ls=a)
+- [demagogue](https://www.onelook.com/?w=demagogue&ls=a)
+- [acrimony](https://www.onelook.com/?w=acrimony&ls=a)
+- [boorish](https://www.onelook.com/?w=boorish&ls=a)
+- [ostentatious](https://www.onelook.com/?w=ostentatious&ls=a)
+- [ostentation](https://www.onelook.com/?w=ostentation&ls=a)
+- [borborygmus](https://www.onelook.com/?w=borborygmus&ls=a)
+  - [borborygmi](https://www.onelook.com/?w=borborygmi&ls=a)
+- [uncouth](https://onelook.com/?w=uncouth&ls=a)
+- [couth](https://onelook.com/?w=couth&ls=a)
+- [lout](https://onelook.com/?w=lout&ls=a)
+- [bricolage](https://onelook.com/?w=bricolage&ls=a)
+- [infatuation](https://onelook.com/?w=infatuation&ls=a)
+- [despot](https://onelook.com/?w=despot&ls=a)
+- [artisan](https://onelook.com/?w=artisan&ls=a)
+- [pontificate](https://onelook.com/?w=pontificate&ls=a)
+- [dogmatic](https://onelook.com/?w=dogmatic&ls=a)
+- [hard-nosed](https://onelook.com/?w=hard-nosed&ls=a)
+- [warren](https://onelook.com/?w=warren&ls=a)
+- [erstwhile](https://onelook.com/?w=erstwhile&ls=a)
+- [maritime](https://onelook.com/?w=maritime&ls=a)
+- [belie](https://onelook.com/?w=belie&ls=a)
+  - [belies](https://onelook.com/?w=belies&ls=a)
+  - [belying](https://onelook.com/?w=belying&ls=a)
+- [prodigious](https://onelook.com/?w=prodigious&ls=a)
+- [portent](https://onelook.com/?w=portent&ls=a)
+- [portentous](https://onelook.com/?w=portentous&ls=a)
+- [salient](https://onelook.com/?w=salient&ls=a)
+- [glen](https://onelook.com/?w=glen&ls=a)
+- [idyllic](https://onelook.com/?w=idyllic&ls=a)
+- [idyll](https://onelook.com/?w=idyll&ls=a)
+  - [idyl](https://onelook.com/?w=idyl&ls=a)
+- [indomitable](https://onelook.com/?w=indomitable&ls=a)
+- [double take](https://onelook.com/?w=double+take&ls=a)
+- [macabre](https://onelook.com/?w=macabre&ls=a)
+- [superadd](https://onelook.com/?w=superadd&ls=a)
+  - [superadded](https://onelook.com/?w=superadded&ls=a)
+- [usurp](https://onelook.com/?w=usurp&ls=a)
+- [supplant](https://onelook.com/?w=supplant&ls=a)
+- [aggrandise](https://onelook.com/?w=aggrandise&ls=a)
+  - [aggrandize](https://onelook.com/?w=aggrandize&ls=a)
+- [maladjusted](https://onelook.com/?w=maladjusted&ls=a)
+- [sisyphean](https://onelook.com/?w=sisyphean&ls=a)
+  - [sisyphus](https://onelook.com/?w=sisyphus&ls=a)
+- [quagmire](https://onelook.com/?w=quagmire&ls=a)
+- [bashful](https://onelook.com/?w=bashful&ls=a)
+- [diffident](https://onelook.com/?w=diffident&ls=a)
+- [egress](https://onelook.com/?w=egress&ls=a)
+- [ingress](https://onelook.com/?w=ingress&ls=a)
+- [evocation](https://onelook.com/?w=evocation&ls=a)
+- [ascetic](https://onelook.com/?w=ascetic&ls=a)
+- [austere](https://onelook.com/?w=austere&ls=a)
+- [acolyte](https://onelook.com/?w=acolyte&ls=a)
+- [dignify](https://onelook.com/?w=dignify&ls=a)
+- [impertinence](https://onelook.com/?w=impertinence&ls=a)
+- [impertinent](https://onelook.com/?w=impertinent&ls=a)
+- [embellish](https://onelook.com/?w=embellish&ls=a)
+- [vicarious](https://onelook.com/?w=vicarious&ls=a)
+  - [vicariously](https://onelook.com/?w=vicariously&ls=a)
+- [shillelagh](https://onelook.com/?w=shillelagh&ls=a)
+- [shirker](https://www.onelook.com/?w=shirker&ls=a)

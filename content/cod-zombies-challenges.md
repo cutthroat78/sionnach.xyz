@@ -22,21 +22,26 @@ This is my list of Call of Duty zombies challenges (all games) that I have seen 
 - I Pack A Punched Every Starting Room Weapon
 - I Pack A Punched the _ On Every Game/Map
   - Example: I Pack A Punched the MP40 On Every Game
-- Invisible Zombies
 - Spawn Room Challenge
-- # (1) Purchase Challenge
+- Invisible Zombies
+- (Number) (e.g. 1) Purchase Challenge
 - Holdout Challenge
 - Alphanumeric/ABC123 Challenge
 - I Pack A Punched Every (Game) Gun on (Map)
+- (Map) with (Number) Times Zombies
 - Rainbow Perk Challenge
-- (Map) with # Times Zombies
 - Reverse Rainbow Perk Challenge
 - Tranzit Build a Bus Challenge
-- Original Idea: Tranzit Build a Bus ABC123 Challenge
 - No Purchase Challenge
 - (Map) with (Game) Guns
-- # (2) Box Challenge
+- (Number) (e.g. 2) Box Challenge
 - (Specific Gun/Weapon) Challenge
-  - Kar98k Challenge
-  - Springfield Challenge
-  - Olympia Challenge (Original Idea)
+  - Examples:
+    - Kar98k Challenge
+    - Springfield Challenge
+    - Olympia Challenge
+- No Sprinting/Running Challenge
+
+## Mods
+
+- [Cause And Effect Mod - Black Ops 3](https://steamcommunity.com/sharedfiles/filedetails/?id=2972515214)
