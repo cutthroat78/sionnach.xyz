@@ -116,3 +116,4 @@ All links below link to that word's entry on [OneLook](https://onelook.com/), wh
 - [shillelagh](https://onelook.com/?w=shillelagh&ls=a)
 - [shirker](https://www.onelook.com/?w=shirker&ls=a)
 - [impudent](https://onelook.com/?w=impudent&ls=a)
+- [effervescent](https://www.onelook.com/?w=effervescent&ls=a)
