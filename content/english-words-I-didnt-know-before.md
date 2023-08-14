@@ -117,3 +117,4 @@ All links below link to that word's entry on [OneLook](https://onelook.com/), wh
 - [shirker](https://www.onelook.com/?w=shirker&ls=a)
 - [impudent](https://onelook.com/?w=impudent&ls=a)
 - [effervescent](https://www.onelook.com/?w=effervescent&ls=a)
+- [precarious](https://www.onelook.com/?w=precarious&ls=a)
