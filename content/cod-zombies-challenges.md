@@ -41,7 +41,11 @@ This is my list of Call of Duty zombies challenges (all games) that I have seen 
     - Springfield Challenge
     - Olympia Challenge
 - No Sprinting/Running Challenge
+- Every Round I Roll a D20 Dice
+  - [Call of Duty Zombies but Every Round I Roll a D20 Dice - FPSpsycho](https://youtu.be/pLaaDxBx21I)
 
 ## Mods
 
 - [Cause And Effect Mod - Black Ops 3](https://steamcommunity.com/sharedfiles/filedetails/?id=2972515214)
+- [Zombies Gauntlets Version 1.0 - Black Ops 3](https://steamcommunity.com/sharedfiles/filedetails/?id=1844514218)
+- [Gum Game - Black Ops 3](https://steamcommunity.com/sharedfiles/filedetails/?id=2100878091)
