@@ -119,3 +119,4 @@ All links below link to that word's entry on [OneLook](https://onelook.com/), wh
 - [effervescent](https://www.onelook.com/?w=effervescent&ls=a)
 - [precarious](https://www.onelook.com/?w=precarious&ls=a)
 - [sycophant](https://www.onelook.com/?w=sycophant&ls=a)
+- [crepuscular](https://www.onelook.com/?w=crepuscular&ls=a)
