@@ -18,3 +18,7 @@ Esperanto is derived from [Romance](/language/languages/natural/romantic/) and s
 - [Esperanto - Wikipedia](https://en.wikipedia.org/wiki/Esperanto)
 - [Esperanto - Simple English Wikipedia](https://simple.wikipedia.org/wiki/Esperanto)
 - [Esperanto - Britannica](https://www.britannica.com/topic/Esperanto)
+
+### Groups/Associations/Communities
+
+- [The Esperanto Association of Ireland](https://esperanto.ie/)
