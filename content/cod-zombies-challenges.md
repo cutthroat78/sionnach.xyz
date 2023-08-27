@@ -14,6 +14,9 @@ This is my list of Call of Duty zombies challenges (all games) that I have seen 
 - Traps Only Challenge
   - Knife is allowed, if it is extremely difficult or to start off until you get to trap(s)
 - Knife Only Challenge
+- [Gun Class] Only Challenge
+  - Snipers Only Challenge
+    - [Origins, But I Can Only Use Snipers - FPSPsycho](https://youtu.be/kDbON-xRCoI?feature=shared)
 - Starting on Round X
   - With Setup (start with X points and have Y amount of time)
   - Without Setup (Like as if you started the game normally, but instead of round 1 it would be X)
