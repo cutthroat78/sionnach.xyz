@@ -16,7 +16,7 @@ This is my list of Call of Duty zombies challenges (all games) that I have seen 
 - Knife Only Challenge
 - [Gun Class] Only Challenge
   - Snipers Only Challenge
-    - [Origins, But I Can Only Use Snipers - FPSPsycho](https://youtu.be/kDbON-xRCoI?feature=shared)
+    - [Origins, But I Can Only Use Snipers - FPSpsycho](https://youtu.be/kDbON-xRCoI?feature=shared)
 - Starting on Round X
   - With Setup (start with X points and have Y amount of time)
   - Without Setup (Like as if you started the game normally, but instead of round 1 it would be X)
@@ -46,9 +46,14 @@ This is my list of Call of Duty zombies challenges (all games) that I have seen 
 - No Sprinting/Running Challenge
 - Every Round I Roll a D20 Dice
   - [Call of Duty Zombies but Every Round I Roll a D20 Dice - FPSpsycho](https://youtu.be/pLaaDxBx21I)
+- No Power Challenge
+- 115 Challenge
+  - [Kino Der Toten, But I Attempt The Iconic 115 Challenge - FPSpsycho](https://www.youtube.com/watch?v=q5f2NMPZPQM)
 
 ## Mods
 
 - [Cause And Effect Mod - Black Ops 3](https://steamcommunity.com/sharedfiles/filedetails/?id=2972515214)
 - [Zombies Gauntlets Version 1.0 - Black Ops 3](https://steamcommunity.com/sharedfiles/filedetails/?id=1844514218)
 - [Gum Game - Black Ops 3](https://steamcommunity.com/sharedfiles/filedetails/?id=2100878091)
+- [Round 100 - Black Ops 3](https://steamcommunity.com/sharedfiles/filedetails/?id=1355451761)
+  - This mod starts you on round 100 with 60 seconds to get ready before round 100 starts

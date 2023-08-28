@@ -126,3 +126,4 @@ All links below link to that word's entry on [OneLook](https://onelook.com/), wh
 - [specious](https://onelook.com/?w=specious&ls=a)
 - [taciturn](https://onelook.com/?w=taciturn&ls=a)
 - [ideate](https://onelook.com/?w=ideate&ls=a)
+- [moratorium](https://www.onelook.com/?w=moratorium&ls=a)
