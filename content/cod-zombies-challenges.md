@@ -57,3 +57,4 @@ This is my list of Call of Duty zombies challenges (all games) that I have seen 
 - [Gum Game - Black Ops 3](https://steamcommunity.com/sharedfiles/filedetails/?id=2100878091)
 - [Round 100 - Black Ops 3](https://steamcommunity.com/sharedfiles/filedetails/?id=1355451761)
   - This mod starts you on round 100 with 60 seconds to get ready before round 100 starts
+- [Recycle Perks - Black Ops 3](https://steamcommunity.com/sharedfiles/filedetails/?id=2929831408)
