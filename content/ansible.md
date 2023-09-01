@@ -44,6 +44,25 @@ In comparison, Ansible (is):
 
 Always check the [Official Documentation's Installation Guide](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) to get the latest info on how to install ansible
 
+## Ansible Configuration Files
+
+When Ansible is installed it creates a default config file at the default path ```/etc/ansible/ansible.cfg```. This file controls Ansible's default behaviour like where the default inventory files is, where to write Ansible's log file, the timeout time for SSH connections, etc.
+
+The ```ansible.cfg``` is made up of sections with headings like ```[section_name]```, e.g. ```[privilege_escalation]```. The options for each section are in a key value structure that look like this ```key  = value``` e.g. ```inventory = /etc/ansible/hosts```
+
+You can change the ```/etc/ansible/ansible.cfg``` to change Ansible's behaviour when running any playbooks on the machine, but if you want to change Ansible's behaviour for only certain playbooks, you can copy the ```/etc/ansible/ansible.cfg``` file, paste it into your playbook's directory (e.g. pasting it to ```/home/user/db-playbooks/ansible.cfg```) and make changes to your newly created config file
+
+If you want to specify a specific config file to use when running a playbook you can change the ```ANSIBLE_CONFIG``` environment variable before running your ```ansible-playbook``` command e.g. ```$ANSIBLE_CONFIG=/home/user/ansible-web.cfg ansible-playbook playbook.yml```
+
+### Ansible's Order of What Configuration File to Pick
+
+1. The file specified VIA ```ANSIBLE_CONFIG``` environment variable
+2. The file in playbook directory e.g. if playbook directory is ```/home/user/network-playbooks/```, then ansible will use the config file at ```/home/user/network-playbooks/ansible.cfg```
+3. The file named ```.ansible.cfg``` that is in the user's home directory
+4. The file at ```/etc/ansible/ansible.cfg```
+
+<!--Video 6 at 04:54-->
+
 ## Inventory
 
 Ansible can work with one or more systems at the same time. To be able to work with different target systems, ansible needs to connect with them. Ansible can use
