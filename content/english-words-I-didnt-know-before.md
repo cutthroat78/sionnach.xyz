@@ -128,3 +128,4 @@ All links below link to that word's entry on [OneLook](https://onelook.com/), wh
 - [ideate](https://onelook.com/?w=ideate&ls=a)
 - [moratorium](https://www.onelook.com/?w=moratorium&ls=a)
 - [sacrilegious](https://www.onelook.com/?w=sacrilegious&ls=a)
+- [posthaste](https://www.onelook.com/?w=posthaste&ls=a)
