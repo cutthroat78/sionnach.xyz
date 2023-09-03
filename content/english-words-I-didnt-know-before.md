@@ -129,3 +129,8 @@ All links below link to that word's entry on [OneLook](https://onelook.com/), wh
 - [moratorium](https://www.onelook.com/?w=moratorium&ls=a)
 - [sacrilegious](https://www.onelook.com/?w=sacrilegious&ls=a)
 - [posthaste](https://www.onelook.com/?w=posthaste&ls=a)
+- [garrote](https://onelook.com/?w=garrote&ls=a)
+- [quinquereme](https://onelook.com/?w=quinquereme&ls=a)
+  - [quinquireme](https://onelook.com/?w=quinquireme&ls=a)
+- [galley](https://onelook.com/?w=galley&ls=a)
+- [oar](https://onelook.com/?w=oar&ls=a)
