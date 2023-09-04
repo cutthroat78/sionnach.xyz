@@ -9,6 +9,10 @@ tags: [
 ]
 ---
 
+## Note
+
+This page is set around using Ansible in Linux and all commands, file paths and information will be based around using Ansible in Linux. I may write about using Ansible on Windows in the future or change this page to suit both using Ansible on Linux and Windows.
+
 ## Intro to Ansible
 
 ### What is Ansible
@@ -50,18 +54,97 @@ When Ansible is installed it creates a default config file at the default path `
 
 The ```ansible.cfg``` is made up of sections with headings like ```[section_name]```, e.g. ```[privilege_escalation]```. The options for each section are in a key value structure that look like this ```key  = value``` e.g. ```inventory = /etc/ansible/hosts```
 
+### Example of An Ansible Config File
+
+```
+[defaults]
+
+inventory      = /etc/ansible/hosts
+library        = /usr/share/my_modules/
+remote_tmp     = $HOME/.ansible/tmp
+local_tmp      = $HOME/.ansible/tmp
+forks          = 5
+poll_interval  = 15
+sudo_user      = root
+
+[selinux]
+special_context_filesystems=nfs,vboxsf,fuse,ramfs
+
+libvirt_lxc_noseclabel = yes
+
+[colors]
+highlight = white
+verbose = blue
+warn = bright purple
+error = red
+debug = dark gray
+deprecate = purple
+skip = cyan
+unreachable = red
+ok = green
+changed = yellow
+diff_add = green
+diff_remove = red
+diff_lines = cyan
+```
+
+See a more longer and more complete (default) Ansible config file here: [ansible.cfg Example - Page on RIP Tutorial](https://riptutorial.com/ansible/example/21992/ansible-cfg)
+
+## Ansible Configuration Files (Continued)
+
 You can change the ```/etc/ansible/ansible.cfg``` to change Ansible's behaviour when running any playbooks on the machine, but if you want to change Ansible's behaviour for only certain playbooks, you can copy the ```/etc/ansible/ansible.cfg``` file, paste it into your playbook's directory (e.g. pasting it to ```/home/user/db-playbooks/ansible.cfg```) and make changes to your newly created config file
 
-If you want to specify a specific config file to use when running a playbook you can change the ```ANSIBLE_CONFIG``` environment variable before running your ```ansible-playbook``` command e.g. ```$ANSIBLE_CONFIG=/home/user/ansible-web.cfg ansible-playbook playbook.yml```
+If you want to specify a specific config file to use when running a playbook you can change the ```ANSIBLE_CONFIG``` environment variable before running your ```ansible-playbook``` command e.g. ```ANSIBLE_CONFIG=/home/user/ansible-web.cfg ansible-playbook playbook.yml```
 
-### Ansible's Order of What Configuration File to Pick
+Ansible config files don't have to have all values. You just need to include the parameters you want to override. The default values for other parameters will come from the next config file(s) in the priority chain. This means you don't have to copy an Ansible config file and change the parameters to what you need, you can just create a new file and change the parameters you want.
 
-1. The file specified VIA ```ANSIBLE_CONFIG``` environment variable
-2. The file in playbook directory e.g. if playbook directory is ```/home/user/network-playbooks/```, then ansible will use the config file at ```/home/user/network-playbooks/ansible.cfg```
-3. The file named ```.ansible.cfg``` that is in the user's home directory
-4. The file at ```/etc/ansible/ansible.cfg```
+### Ansible's Order of What Configuration File to Use First
 
-<!--Video 6 at 04:54-->
+1. Parameters set using environment variables
+2. The file specified VIA ```ANSIBLE_CONFIG``` environment variable
+3. The file in playbook directory e.g. if playbook directory is ```/home/user/network-playbooks/```, then ansible will use the config file at ```/home/user/network-playbooks/ansible.cfg```
+4. The file named ```.ansible.cfg``` that is in the user's home directory
+5. The file at ```/etc/ansible/ansible.cfg```
+
+### Using Environment Variables to Change Parameters (Instead of Config Files)
+
+Instead of using an Ansible config file to change a parameter, you can use specify an environment variable before executing an Ansible playbook.
+
+#### How to Specify Environment Variables
+
+##### Specifying for The Running of an Ansible Playbook
+
+In Linux/Bash: ```ANSIBLE_GATHER=explicit ansible-playbook playbook.yml```
+
+Remember that with this method, the environment variable will only be used for this instance of running this playbook
+
+##### Specify for Shell Session
+
+In Linux/Bash:
+
+1. ```export ANSIBLE_GATHERING=explicit```
+2. ```ansible-playbook playbook.yml```
+
+Remember that with this method, the environment variable will persist until the shell is exited
+
+#### How to Figure Out What The Equivalent Environment Variable is for a Ansible Config File Parameter
+
+For most options options in Ansible config files, the environment variable equivalent will be the name of the parameter (key part) in uppercase with ```ANSIBLE_``` in front of it
+
+Remember to check the documentation to see if this is correct before running an Ansible playbooks. The documentation has a section with all Ansible config environment variables here: [Environment Variables Section in Page: "Ansible Configuration Settings" — Ansible Documentation](https://docs.ansible.com/ansible/latest/reference_appendices/config.html#environment-variables)
+
+##### Example
+
+In a Ansible config file we have:
+```
+gathering    = implicit
+```
+
+So, the environment variable equivalent to the above would be ```ANSIBLE_GATHERING``` and to specify it like it says above when executing an Ansible playbook would be done like this: ```ANSIBLE_GATHERING=implicit ansible-playbook playbook.yml```
+
+We can confirm this is correct by looking at the documentation, which has a section for ```ANSIBLE_GATHERING``` here: [```ANSIBLE_GATHERING``` Section in Page: "Ansible Configuration Settings" — Ansible Documentation](https://docs.ansible.com/ansible/latest/reference_appendices/config.html#envvar-ANSIBLE_GATHERING)
+
+<!--Video 6 at 08:14-->
 
 ## Inventory
 
@@ -354,6 +437,8 @@ Replace ```{target system}``` with the name of your target system and replace ``
 
 - [Ansible - Wikipedia](https://en.wikipedia.org/wiki/Ansible_(software))
 - [Ansible Documentation](https://docs.ansible.com/)
+  - [Environment Variables Section in Page: "Ansible Configuration Settings" — Ansible Documentation](https://docs.ansible.com/ansible/latest/reference_appendices/config.html#environment-variables)
+    - [Ansible Configuration Settings — Ansible Documentation](https://docs.ansible.com/ansible/latest/reference_appendices/config.html#envvar-ANSIBLE_GATHERING)
 - [Ansible Official Website](https://www.ansible.com/)
 - [Ansible - Arch Linux Wiki](https://wiki.archlinux.org/title/Ansible)
 - [Ansible in 100 Seconds by Fireship - YouTube Video](https://www.youtube.com/watch?v=xRMPKQweySE) - Good Introduction to Ansible
@@ -362,3 +447,4 @@ Replace ```{target system}``` with the name of your target system and replace ``
 - [*Ansible for DevOps* by Jeff Geerling - Book](https://www.ansiblefordevops.com/)
 - [How do you convert ansible ini inventory into json or yaml - StackOverflow](https://stackoverflow.com/questions/57727326/how-do-you-convert-ansible-ini-inventory-into-json-or-yaml)
   - [ansible-inventory tips - dd if=/dev/brain of=/var/log/site (evrard.me)](https://evrard.me/convert-ansible-inventories-with-ansible-inventory-cli/)
+- [ansible.cfg Example - Page on RIP Tutorial](https://riptutorial.com/ansible/example/21992/ansible-cfg) - Example of an Ansible config file
