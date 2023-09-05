@@ -71,7 +71,7 @@ Use TTF files for characters in character column in each table
   - [Wingdings and Undertale: W.D. Gaster’s Alphabet and Translator - Wingdings Translator.com](https://wingdingstranslator.com/undertale/)
 - [Android App: Gaster Dingbats: Wingdings translator (has Wingdings (1, 2 & 3) & Webdings)](https://play.google.com/store/apps/details?id=net.blackenvelope.write.dingbats)
 - [YouTube Video: Why the Wingdings font exists by Vox](https://youtu.be/JdKV1L1DJHc)
-- [Wingdings (1, 2 & 3) & Webdings Chart with Unicode Equivalents](http://www.alanwood.net/demos/wingdings.html) <!-- Used to make charts-->
+- [Wingdings (1, 2 & 3) & Webdings Chart with Unicode Equivalents](http://www.alanwood.net/demos/wingdings.html) <!-- Use to make charts-->
 - [Wingdings - Wikipedia](https://en.wikipedia.org/wiki/Wingdings)
 - [Webdings - Wikipedia](https://en.wikipedia.org/wiki/Webdings)
 - [LingoJam Wingdings (1) Translator 1](https://lingojam.com/WingDing)

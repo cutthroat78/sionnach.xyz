@@ -1,5 +1,5 @@
 ---
-title: "Yola"
+title: "Yola (Forth and Bargy Dialect)"
 tags: [
   "language",
   "germanic-languages",
@@ -7,11 +7,11 @@ tags: [
 ]
 ---
 
-Historically called: the Forth and Bargy dialect
+Yola was historically called the "Forth and Bargy Dialect"
 
 (investigate this more)
 
-Yola seems to be considered by a language by some and a dialect to others, but most of the sources I find that are more linguistically based (e.g. Ethnologue, Wikipedia, etc.) consider it a language.
+Yola seems to be considered by a language by some and a dialect to others, but most of the sources I find that are more linguistically based (e.g. Ethnologue, Wikipedia, etc.) consider it a language
 
 ## Links
 
