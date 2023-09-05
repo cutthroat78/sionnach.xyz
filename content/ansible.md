@@ -98,7 +98,7 @@ If you want to specify a specific config file to use when running a playbook you
 
 Ansible config files don't have to have all values. You just need to include the parameters you want to override. The default values for other parameters will come from the next config file(s) in the priority chain. This means you don't have to copy an Ansible config file and change the parameters to what you need, you can just create a new file and change the parameters you want.
 
-### Ansible's Order of What Configuration File to Use First
+### Ansible's Order of What Configuration File to Use First, Second, Third, etc.
 
 1. Parameters set using environment variables
 2. The file specified VIA ```ANSIBLE_CONFIG``` environment variable
@@ -112,11 +112,11 @@ Instead of using an Ansible config file to change a parameter, you can use speci
 
 #### How to Specify Environment Variables
 
-##### Specifying for The Running of an Ansible Playbook
+##### Specifying for The Running of a Singular Ansible Playbook
 
 In Linux/Bash: ```ANSIBLE_GATHER=explicit ansible-playbook playbook.yml```
 
-Remember that with this method, the environment variable will only be used for this instance of running this playbook
+Remember that with this method, the environment variable will only be specified for this instance of running this playbook
 
 ##### Specify for Shell Session
 
@@ -125,15 +125,15 @@ In Linux/Bash:
 1. ```export ANSIBLE_GATHERING=explicit```
 2. ```ansible-playbook playbook.yml```
 
-Remember that with this method, the environment variable will persist until the shell is exited
+Remember that with this method, the environment variable will only be set for this user and will persist until the shell is exited
 
 #### How to Figure Out What The Equivalent Environment Variable is for a Ansible Config File Parameter
 
 For most options options in Ansible config files, the environment variable equivalent will be the name of the parameter (key part) in uppercase with ```ANSIBLE_``` in front of it
 
-Remember to check the documentation to see if this is correct before running an Ansible playbooks. The documentation has a section with all Ansible config environment variables here: [Environment Variables Section in Page: "Ansible Configuration Settings" — Ansible Documentation](https://docs.ansible.com/ansible/latest/reference_appendices/config.html#environment-variables)
+Remember to check the documentation or use the ```ansible-config list``` command to see if this is correct before running an Ansible playbooks. The documentation has a section with all Ansible config environment variables here: [Environment Variables Section in Page: "Ansible Configuration Settings" — Ansible Documentation](https://docs.ansible.com/ansible/latest/reference_appendices/config.html#environment-variables)
 
-##### Example
+##### Example of How to Figure Out What The Equivalent Environment Variable is for a Ansible Config File Parameter
 
 In a Ansible config file we have:
 ```
@@ -144,7 +144,29 @@ So, the environment variable equivalent to the above would be ```ANSIBLE_GATHERI
 
 We can confirm this is correct by looking at the documentation, which has a section for ```ANSIBLE_GATHERING``` here: [```ANSIBLE_GATHERING``` Section in Page: "Ansible Configuration Settings" — Ansible Documentation](https://docs.ansible.com/ansible/latest/reference_appendices/config.html#envvar-ANSIBLE_GATHERING)
 
-<!--Video 6 at 08:14-->
+We can also confirm this by running ```ansible-config list``` and going through the output to find if ```ANSIBLE_GATHERING``` is correct. You can pipe the output to ```grep``` or ```less``` to make it easier to find, e.g. for grep: ```ansible-config list | grep ANSIBLE_GATHERING -A 10 -B 20```, for less ```ansible-config list | less``` (in less you can type ```/``` and type in ```ANSIBLE_GATHERING``` and it will take you to the section with ```ANSIBLE_GATHERING```)
+
+### The "ansible-config" Command
+
+#### The "ansible-config list" Command - How to See All Ansible Configuration Info
+
+The command ```ansible-config list``` will display a list of all different configurations, their default values, their environment variable equivalents and the values you can set
+
+#### The "ansible-config view" Command - Show The Contents of the Current Active Config File
+
+The command ```ansible-config view``` shows the contents of the config file that is currently active
+
+#### The "ansible-config dump" Command - Show The Current Settings and Parameters
+
+The command ```ansible-config dump``` shows you a list of all current settings and parameters that Ansible has picked up and where it picked up each setting
+
+##### Example Use of "ansible-config dump" Command
+
+In Linux/Bash:
+
+1. ```export ANSIBLE_GATHERING=explicit```
+2. ```ansible-config dump | grep GATHERING```
+  - Output: ```DEFAULT_GATHERING(env: ANSIBLE_GATHERING) = explicit```
 
 ## Inventory
 
@@ -438,7 +460,7 @@ Replace ```{target system}``` with the name of your target system and replace ``
 - [Ansible - Wikipedia](https://en.wikipedia.org/wiki/Ansible_(software))
 - [Ansible Documentation](https://docs.ansible.com/)
   - [Environment Variables Section in Page: "Ansible Configuration Settings" — Ansible Documentation](https://docs.ansible.com/ansible/latest/reference_appendices/config.html#environment-variables)
-    - [Ansible Configuration Settings — Ansible Documentation](https://docs.ansible.com/ansible/latest/reference_appendices/config.html#envvar-ANSIBLE_GATHERING)
+    - [ANSIBLE_GATHERING Section in Page: “Ansible Configuration Settings” — Ansible Documentation](https://docs.ansible.com/ansible/latest/reference_appendices/config.html#envvar-ANSIBLE_GATHERING)
 - [Ansible Official Website](https://www.ansible.com/)
 - [Ansible - Arch Linux Wiki](https://wiki.archlinux.org/title/Ansible)
 - [Ansible in 100 Seconds by Fireship - YouTube Video](https://www.youtube.com/watch?v=xRMPKQweySE) - Good Introduction to Ansible
