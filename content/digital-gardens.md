@@ -2,6 +2,8 @@
 title: "Digital Gardens / Second Brains"
 tags: [
   "digital-gardens",
+  "note-taking",
+  "learning",
 ]
 ---
 
