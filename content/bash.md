@@ -7,7 +7,7 @@ tags: [
   "scripting",
   "FOSS",
   "linux",
-  "computer-language"
+  "computer-language",
   "CLI",
 ]
 ---
