@@ -9,7 +9,7 @@ tags: [
 
 Yola was historically called the "Forth and Bargy Dialect"
 
-(investigate this more)
+<!--(investigate this more)-->
 
 Yola seems to be considered by a language by some and a dialect to others, but most of the sources I find that are more linguistically based (e.g. Ethnologue, Wikipedia, etc.) consider it a language
 

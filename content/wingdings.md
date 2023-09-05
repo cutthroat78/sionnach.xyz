@@ -1,5 +1,5 @@
 ---
-title: "Microsoft Dingbat Fonts"
+title: "Microsoft Dingbat Fonts (Wingdings and Webdings)"
 tags: [
   "cryptography",
   "ciphers",
