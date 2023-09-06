@@ -135,3 +135,7 @@ All links below link to that word's entry on [OneLook](https://onelook.com/), wh
 - [galley](https://onelook.com/?w=galley&ls=a)
 - [oar](https://onelook.com/?w=oar&ls=a)
 - [levant](https://www.onelook.com/?w=levant&ls=a)
+- [praetorian](https://onelook.com/?w=praetorian&ls=a)
+- [praetor](https://onelook.com/?w=praetor&ls=a)
+- [consul](https://onelook.com/?w=consul&ls=a)
+- [epitaph](https://onelook.com/?w=epitaph&ls=a)
