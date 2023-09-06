@@ -134,3 +134,4 @@ All links below link to that word's entry on [OneLook](https://onelook.com/), wh
   - [quinquireme](https://onelook.com/?w=quinquireme&ls=a)
 - [galley](https://onelook.com/?w=galley&ls=a)
 - [oar](https://onelook.com/?w=oar&ls=a)
+- [levant](https://www.onelook.com/?w=levant&ls=a)

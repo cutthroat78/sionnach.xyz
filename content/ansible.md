@@ -181,9 +181,23 @@ Information about target systems is stored in an inventory file.
 
 If you don't create a new inventory file, ansible will default to using the inventory file located at ```/etc/ansible/hosts```.
 
-Inventory files can stored in an INI or [YAML]({{< ref yaml.md >}}) format.
-
 Inventory files can use either (external or internal) IP addresses or hostnames for each target system.
+
+### Inventory Formats
+
+Inventory files can be in an INI, [YAML]({{< ref yaml.md >}}), TOML or JSON format.
+
+#### Why Do We Need Different Inventory Formats?
+
+We need different inventory formats offers flexibility and allows you to group your servers based on their roles, geographical location or any other criteria that makes sense for your use case
+
+#### INI Format
+
+The INI format is very simple and straightforward. You could compare it to a basic organisational chart for a small startup
+
+#### YAML Format
+
+The [YAML]({{< ref yaml.md >}}) format is more flexible and structured than the INI format. You could compare the [YAML]({{< ref yaml.md >}}) format to a complex organisational chart for a large corporation
 
 ### Basic Inventory Example
 
@@ -207,9 +221,21 @@ all:
     192.168.1.1:
 ```
 
-### Grouping Inventory Example
+### Grouping in Inventory Files
 
-#### INI
+Servers can be grouped together under a label in the inventory file and groups can be specified using the label to save time and reduce the risk of errors by allowing a user to run a playbook against a group of servers by specifying the group's label as opposed to having to specify each individual server
+
+#### How To Group In An INI Formatted Inventory File
+
+In INI, servers can be grouped by writing the label of the group and surrounding the group label with square brackets (```[``` and ```]```) and then specifying the servers underneath the group label
+
+#### How To Group In An YAML Formatted Inventory File
+
+In [YAML]({{< ref yaml.md >}}), servers can be grouped using the ```hosts:``` keyword and listing the servers underneath the ```hosts:``` keyword
+
+#### Grouping Inventory Example
+
+##### INI
 
 ```
 server1.company.com
@@ -223,7 +249,7 @@ server4.company.com
 server5.company.com
 ```
 
-#### YAML
+##### YAML
 
 ```
 all:
@@ -241,9 +267,23 @@ all:
         server5.company.com:
 ```
 
-### Inventory Example with Groups Inside of A Group
+#### Parent-Child Group Relationships in Inventory Files
 
-#### INI
+Inventory files can have parent groups that can contain child groups. This allows you to specify more specifically which group of servers you want to run a playbook on, whether it is a broader group of servers, which would use a parent group or a smaller group of servers, which would use a child group. Child groups of a parent group can also have their own child groups, allowing for much more flexibility and specificity when running playbooks on groups of server
+
+One good use case for this feature would be for grouping servers by geographical locations (e.g. USA, UK, Europe, North America, etc.) inside a parent group for what type of servers they are (e.g. web, database, etc.)
+
+##### How To Make Parent-Child Group Relationships in INI Formatted Inventory Files
+
+In INI, you can create a parent group by specifying the parent group name and putting ```:children``` after it and surrounding that with square brackets (```[``` and ```]```) and then specifying the child groups and any ungrouped servers underneath the parent group label
+
+##### How To Make Parent-Child Group Relationships in YAML Formatted Inventory Files
+
+In [YAML]({{< ref yaml.md >}}), child groups can be grouped using the ```children:``` keyword and listing the child groups and any servers that don't belong to a children group underneath the ```children:``` keyword
+
+##### Inventory with A Parent Group That Has Two Child Groups Example
+
+###### INI
 
 ```
 [web]
@@ -259,7 +299,7 @@ web
 db
 ```
 
-#### YAML
+###### YAML
 
 ```
 all:
@@ -272,6 +312,67 @@ all:
       hosts:
         server3.company.com:
         server4.company.com:
+```
+
+##### Inventory with A Parent Group That Has Two Child Groups and Each of Those Child Groups Has Their Own Two Child Groups Example
+
+###### INI
+
+```
+[web_UK]
+server1.company.com
+server2.company.com
+
+[web_USA]
+server3.company.com
+server4.company.com
+
+[web:children]
+web_USA
+web_UK
+
+[db_UK]
+server5.company.com
+server6.company.com
+
+[db_USA]
+server7.company.com
+server8.company.com
+
+[db:children]
+db_USA
+db_UK
+
+[all:children]
+web
+db
+```
+
+###### YAML
+
+```
+all:
+  children:
+    db:
+      children:
+        db_UK:
+          hosts:
+            server5.company.com:
+            server6.company.com:
+        db_USA:
+          hosts:
+            server7.company.com:
+            server8.company.com:
+    web:
+      children:
+        web_UK:
+          hosts:
+            server1.company.com:
+            server2.company.com:
+        web_USA:
+          hosts:
+            server3.company.com:
+            server4.company.com:
 ```
 
 ### Inventory Parameters
@@ -368,7 +469,7 @@ all:
 
 - ansible_connection
   - Defines what connection to use to connect to the target system
-  - Example Values: ```ssh```, ```winrm```, ```localhost```:w
+  - Example Values: ```ssh```, ```winrm```, ```localhost```
 - ansible_port
   - Defines what port to use to connect to the target system
   - Example Values: ```22```, ```5986```, ```8922```

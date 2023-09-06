@@ -19,7 +19,7 @@ Language is a unique area to study because to study it we need to use it. This m
 To precisely cultivate meta-linguistic awareness we need to test and examine our assumptions on how language works. To do this, linguistics have identified that language has a few key design features that distinguish a language from other ways of communicating
 
 #### Key Design Features of Language
-<!--Video 2 at 03:32-->
+
 ##### 1 - Displacement
 
 _
@@ -32,9 +32,19 @@ The second key design feature is called **Duality of Patterning**, which is the 
 
 2. **Combination of Forms** is the synthesis of forms to create meaning, e.g. when the sounds of /b/, /ʌ/, /n/ and /i/ come together to make /bʌni/, which is the pronunciation for the English word: bunny. Remember that these sounds can also be combined to make the pronunciation /nʌbi/, which would be the English word nubby. This is because it is the combination of sounds or handshapes (forms) that make the meaning, not the individual sounds or shapes themselves.
 
-##### 3 - Arbitrary Sign
+##### 3 - The Arbitrariness of the Sign
 
-_
+There is on inherent connection between a word and the thing it refers to e.g. the English word 'bunny' has no inherent connection with the furry animal it refers to. Other sequences of sounds of handshapes (forms) like, conejo, kelinci, gavagai or [The ASL for Bunny](https://www.signingsavvy.com/sign/bunny/6201/1) also refer to this animal
+
+Definitions for *Sign* (1.A, 1.B and 1.C are three different ways of describing the same definition. 2 is a separate definition from 1):
+- 1.A. A *sign* is anything (like a word) that communicates a meaning that is not the sign itself to the interpreter of the sign
+- 1.B. *Signs* are references for things that exist in the world
+- 1.C. A *sign* conveys a meaning that is *beyond* itself
+- 2. <!-- Add definition for sign language sign-->
+
+The third key design feature is called **The Arbitrariness of the Sign**, which is the idea that the choice of which sign (particular word or set of smaller units of sounds or shapes) to use to references things that exist in the world is arbitrary because there is no specific reason why that particular sign was used
+
+<!--Add rain example of sign - Video 2 at 04:11-->
 
 ##### 4 - Reflexivity
 
