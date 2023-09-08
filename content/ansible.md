@@ -556,6 +556,10 @@ Replace ```{target system}``` with the name of your target system and replace ``
 
 ```ansible {target system} -m ping -i {inventory file}```
 
+## Ansible Variables
+
+
+
 ## Links
 
 - [Ansible - Wikipedia](https://en.wikipedia.org/wiki/Ansible_(software))

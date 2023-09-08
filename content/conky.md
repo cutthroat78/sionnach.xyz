@@ -3,6 +3,7 @@ title: "Conky"
 tags: [
   "computing",
   "linux",
+  "FOSS",
   "user-interfaces",
   "graphical-user-interfaces",
   "desktop-environments",
