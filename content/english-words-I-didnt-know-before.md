@@ -12,7 +12,7 @@ This list was started on 27/05/2023
 
 Some words on this list I may have heard before and/or might have had some idea on how to use them, but I didn't fully understand them or know how to use them properly
 
-All links below link to that word's entry on [OneLook](https://onelook.com/), which is a website that lists dictionaries that include the word or term looked up
+All links below link to that word's entry on [OneLook](https://onelook.com/), which is a meta search engine for English dictionaries
 
 <!--
 - [](https://www.onelook.com/?w= &ls=a)
@@ -139,3 +139,11 @@ All links below link to that word's entry on [OneLook](https://onelook.com/), wh
 - [praetor](https://onelook.com/?w=praetor&ls=a)
 - [consul](https://onelook.com/?w=consul&ls=a)
 - [epitaph](https://onelook.com/?w=epitaph&ls=a)
+- [hatchet man](https://www.onelook.com/?w=hatchet%20man&ls=a)
+  - [hatchetman](https://www.onelook.com/?w=hatchetman&ls=a)
+- [elate](https://www.onelook.com/?w=elate&ls=a)
+- [gauche](https://www.onelook.com/?w=gauche&ls=a)
+- [bursary](https://www.onelook.com/?w=bursary&ls=a)
+- [exhumation](https://www.onelook.com/?w=exhumation&ls=a)
+- [polydipsia](https://www.onelook.com/?w=polydipsia&ls=a)
+- [pogonophile](https://www.onelook.com/?w=pogonophile&ls=a)
