@@ -3,6 +3,7 @@ title: "Rock Tumbling"
 tags: [
   "rock-tumbling",
   "crafts",
+  "hobby",
 ]
 ---
 

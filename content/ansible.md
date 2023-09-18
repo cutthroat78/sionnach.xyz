@@ -11,7 +11,7 @@ tags: [
 
 ## Note
 
-This page is set around using Ansible in Linux and all commands, file paths and information will be based around using Ansible in Linux. I may write about using Ansible on Windows in the future or change this page to suit both using Ansible on Linux and Windows.
+This page is set around using Ansible in Linux and all commands, file paths and information will be based around using Ansible in Linux. I may write about using Ansible on Windows in the future or change this page to suit both using Ansible on Linux and Windows
 
 ## Intro to Ansible
 

@@ -22,3 +22,4 @@ tags: [
 - [GitHub Repo: brndnmtthws/conky: Light-weight system monitor for X, Wayland, and other things, too](https://github.com/brndnmtthws/conky)
 - [Conky - ArchWiki](https://wiki.archlinux.org/title/Conky)
 - ["Conky - The Fully Customizable System Monitor For Linux" - LinuxForDevices](https://www.linuxfordevices.com/tutorials/linux/conky-customizable-system-monitor)
+- [*Expert's guide to configuring Conky* - Linux.com](https://www.linux.com/news/experts-guide-configuring-conky/)
