@@ -17,6 +17,14 @@ tags: [
 
 - [How to Draw for Beginners: A Step-By-Step Guide - wikiHow](https://www.wikihow.com/Draw)
 
+### Shading
+
+- [How to Shade Drawings: Tips & Techniques for Beginners](https://www.wikihow.com/Shade-Drawings)
+
+### Drawing Shadows
+
+- [How to Draw a Shadow: 13 Steps (with Pictures) - wikiHow](https://www.wikihow.com/Draw-a-Shadow)
+
 ### Drawing Humans
 
 #### Heads
