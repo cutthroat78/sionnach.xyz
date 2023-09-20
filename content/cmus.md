@@ -1,5 +1,5 @@
 ---
-title: "Bash (Bourne-Again SHell)"
+title: "cmus"
 tags: [
   "media",
   "music",
