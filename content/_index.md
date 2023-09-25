@@ -29,7 +29,7 @@ I don't really like talking/revealing much about myself, but the contents of my 
   - [Leaving Cert Notes Anki Decks](https://github.com/cutthroat78/Leaving-Cert-Notes/tree/main/anki)
   - [Language Learning Resources Anki Decks](https://github.com/cutthroat78/Language-Learning-Resources/releases) <!--Remove me when I move stuff from here to digital garden-->
 
-Older and archived projects can be find on my [GitHub](https://github.com/cutthroat78?tab=repositories)
+Older and archived projects can be found on my [GitHub](https://github.com/cutthroat78?tab=repositories)
 
 ### Associations
 
