@@ -21,10 +21,12 @@ tags: [
   - [Codeberg Repo: j0/transvoice_party](https://codeberg.org/j0/transvoice_party)
 - [Transgender Voice Therapy - Wikipedia](https://en.wikipedia.org/wiki/Transgender_voice_therapy)
 
-### Voice Feminisation
+### Voice Feminisation and Voice Masculinisation
 
 - [SumianVoice Wiki - Voice Resource Repository](https://wiki.sumianvoice.com) - A community ran reference material and guide with lots of voice resources made by SumianVoice
   - [GitHub Repo: SumianVoice/TransVoice-Wiki](https://github.com/SumianVoice/TransVoice-Wiki)
   - [SumianVoice's Website](https://sumianvoice.com)
+
+### Voice Feminisation
 
 ### Voice Masculinisation

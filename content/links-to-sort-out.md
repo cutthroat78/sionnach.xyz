@@ -5,6 +5,25 @@ tags: [
 ]
 ---
 
+- [TheWaWaR/simple-http-server: Simple http server in Rust (Windows/Mac/Linux)](https://github.com/TheWaWaR/simple-http-server)
+- [Your favorite operating systems in one place! | netboot.xyz](https://netboot.xyz/)
+- [Discord History Tracker](https://dht.chylex.com/)
+- [Releases · EmuELEC/EmuELEC](https://github.com/EmuELEC/EmuELEC/releases)
+- [TrueNAS - Welcome to the Open Source Storage Era](https://www.truenas.com/)
+- [Ceph.io — Home](https://ceph.com/en/)
+- [Flashpoint Archive](https://flashpointarchive.org/)
+- [How to Play Old Flash Games in 2020, and Beyond](https://www.howtogeek.com/563875/how-to-play-old-flash-games-in-2020-and-beyond/)
+- [Free Your Android! - FSFE](https://fsfe.org/activities/android/)
+
+- [legal/grcroi - TransIreland](https://www.reddit.com/r/TransIreland/wiki/legal/grcroi/)
+- [Calculator.net: Free Online Calculators - Math, Fitness, Finance, Science](https://www.calculator.net/)
+- [How to Be a Better Person: 15 Simple Ways](https://www.wikihow.com/Be-a-Better-Person)
+- [Benefits of Face Serum: Expert Advice on What to Know](https://www.healthline.com/health/benefits-of-face-serum#whats-a-serum)
+
+- [List of academic fields - Wikipedia](https://en.wikipedia.org/wiki/List_of_academic_fields)
+
+- [VirusTotal - Home](https://www.virustotal.com/gui/home/upload)
+
 - [VMware Learning](https://mylearn.vmware.com/mgrReg/index.cfm?ui=www_edu&redirect=off)
 
 - [Hitman: Absolution - IGN](https://www.ign.com/games/hitman-absolution)
@@ -182,9 +201,16 @@ tags: [
 
 ## Windows Tools
 
+- [AutoHotkey](https://www.autohotkey.com/)
+
 - [microsoft/PowerToys: Windows system utilities to maximize productivity](https://github.com/microsoft/PowerToys)
 - [Microsoft PowerToys | Microsoft Learn](https://learn.microsoft.com/en-us/windows/powertoys/)
 - [Microsoft PowerToys - Microsoft Store Apps](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)
+
+- [WizTree - The Fastest Disk Space Analyzer](https://diskanalyzer.com/)
+- [Wintoys - Microsoft Store Apps](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
+
+- [Ninite - Install or Update Multiple Apps at Once](https://ninite.com/)
 
 - [Chocolatey Software | Chocolatey - The package manager for Windows](https://chocolatey.org/)
 - [Use the winget tool to install and manage applications | Microsoft Learn](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
@@ -197,3 +223,140 @@ tags: [
 - [Access Control Lists(ACL) in Linux - GeeksforGeeks](https://www.geeksforgeeks.org/access-control-listsacl-linux/)
 - [How to create and use file access control lists in Linux | Enable Sysadmin](https://www.redhat.com/sysadmin/access-control-lists)
 - [An introduction to Linux Access Control Lists (ACLs) | Enable Sysadmin](https://www.redhat.com/sysadmin/linux-access-control-lists)
+
+## logname Command
+
+- [logname command at DuckDuckGo](https://duckduckgo.com/?q=logname+command&ia=web)
+- [Linux / Unix: logname Command Examples To Display Loginname - nixCraft](https://www.cyberciti.biz/faq/unix-linux-logname-command-examples-syntax-usage/)
+- [Beginners Guide for Logname Command in Linux](https://linuxtldr.com/logname-command/)
+- [Linux logname Command Tutorial for Beginners (with Examples)](https://www.howtoforge.com/linux-logname-command/)
+
+## Windows 11 Symbolic Links
+
+- [How to View a List of Symbolic Links on Windows 11](https://www.howtogeek.com/763271/how-to-view-a-list-of-symbolic-links-on-windows-11/)
+- [Symlinks in Windows 10! - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2016/12/02/symlinks-windows-10/)
+- [Create symbolic links - Windows Security | Microsoft Learn](https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/create-symbolic-links)
+
+## Intersex
+
+- [MRKH DSD condition at DuckDuckGo](https://duckduckgo.com/?q=MRKH+DSD+condition&ia=web)
+- [Disorders of sex development - Wikipedia](https://en.wikipedia.org/wiki/Disorders_of_sex_development)
+- [Intersex - Wikipedia](https://en.wikipedia.org/wiki/Intersex)
+- [XX male syndrome - Wikipedia](https://en.wikipedia.org/wiki/XX_male_syndrome)
+- [Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome: a comprehensive update | Orphanet Journal of Rare Diseases | Full Text](https://ojrd.biomedcentral.com/articles/10.1186/s13023-020-01491-9)
+- [Mayer-Rokitansky-Küster-Hauser Syndrome - Symptoms, Causes, Treatment | NORD](https://rarediseases.org/rare-diseases/mayer-rokitansky-kuster-hauser-syndrome/)
+- [MRKH syndrome: Symptoms, types, and treatment options](https://www.medicalnewstoday.com/articles/mrkh-syndrome#symptoms)
+
+## COD Mods
+
+- [Futurama (Version 1.1) in Map Releases - Page 1 of 5](https://www.ugx-mods.com/forum/map-releases/29/futurama-version-1-1/9899)
+- [✮ Best Custom Zombies Map Downloads :: World at War: Custom Zombies](https://steamcommunity.com/groups/Imlikingmyzombies/discussions/0/530646715638878469/)
+- [Five Nights at Freddy's! in Map Releases - Page 1 of 6](https://www.ugx-mods.com/forum/map-releases/29/five-nights-at-freddys/4904)
+- [Cheese Cube Unlimited: Cube of Circles in Map Releases - Page 1 of 7](https://www.ugx-mods.com/forum/map-releases/29/cheese-cube-unlimited-cube-of-circles/2973)
+- [Spongebob, Battle for Bikini Bottom [V1.1] LINK UP in Map Releases - Page 1 of 7](https://www.ugx-mods.com/forum/map-releases/29/re-spongebob-battle-for-bikini-bottom-v1-0/11404)
+- [Spongebob, Battle for Bikini Bottom [V1.1] LINK UP in Map Releases - Page 1 of 7](https://www.ugx-mods.com/forum/map-releases/29/re-spongebob-battle-for-bikini-bottom-v1-0/11404)
+- [Bus Depot (Update V1.2 - NEW AREA & GAMEMODE) in Map Releases - Page 1 of 19](https://www.ugx-mods.com/forum/map-releases/29/re-bus-depot/10658)
+- [Insel Der Toten [V1.1] in Map Releases - Page 1 of 8](https://www.ugx-mods.com/forum/map-releases/29/insel-der-toten-v1-1/11334)
+- [minecraft village V1.2 | ZombieModding](https://zombiemodding.com/index.php?action=downloads;sa=view;down=1822)
+- [Nacht Der Untoten Reimagined (Version 2.1) in Map Releases - Page 1 of 23](https://www.ugx-mods.com/forum/map-releases/29/nacht-der-untoten-reimagined-version-2-1/7467)
+- [[App] UGX Map Manager (v1.4.4 Update) in Applications & Tools - Page 1 of 43](https://www.ugx-mods.com/forum/applications-and-tools/36/app-ugx-map-manager-v1-4-4-update/49)
+
+## Tortoise TTS
+
+- [How to Clone Any Voice With AI 🔊 | Tutorial | Tortoise-TTS - YouTube](https://www.youtube.com/watch?v=Kfr_FZof_hs)
+- [GitHub - neonbjb/tortoise-tts: A multi-voice TTS system trained with an emphasis on quality](https://github.com/neonbjb/tortoise-tts)
+- [TorToiSe - These words were never spoken.](https://nonint.com/static/tortoise_v2_examples.html)
+
+## Digital Garden
+
+- [How I built my Digital Garden using Hugo - Rishikesh Sreehari](https://rishikeshs.com/build-a-digital-garden/)
+- [crisrojas/Zettels: Zettels Hugo Theme](https://github.com/crisrojas/Zettels)
+- [Guido Percu's Notes](https://digitalgarden.guidopercu.dev/)
+- [Introduction to the Zettelkasten Method • Zettelkasten Method](https://zettelkasten.de/introduction/)
+- [MaggieAppleton/digital-gardeners: Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs](https://github.com/MaggieAppleton/digital-gardeners)
+- [Rishikesh's Digital Garden](https://notes.rishikeshs.com/)
+  - [About | Rishikesh's Digital Garden](https://notes.rishikeshs.com/about/)
+- [Hugo ʕ•ᴥ•ʔ Bear Blog](https://janraasch.github.io/hugo-bearblog/)
+- [janraasch/hugo-bearblog: 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!](https://github.com/janraasch/hugo-bearblog/)
+
+## 3D Prints
+
+- [Thing files for Yet Another Fidget Infinity Cube by acurazine - Thingiverse](https://www.thingiverse.com/thing:2595224/files)
+- [Infinity Cube by mjdargen - Thingiverse](https://www.thingiverse.com/thing:4997903)
+- [SD Card organizer drawer by BellySyrup - Thingiverse](https://www.thingiverse.com/thing:6060353)
+- [Modular Organizer Boxes by ZMonstar - Thingiverse](https://www.thingiverse.com/thing:6017341)
+
+## LGBT Education
+
+- [Rainbow Paradise? Sexualities and Gender Diversity in Finnish Schools | SpringerLink](https://link.springer.com/chapter/10.1007/978-981-19-8241-5_17)
+- [best country for lgbt education in education system at DuckDuckGo](https://duckduckgo.com/?q=best+country+for+lgbt+education+in+education+system&ia=web)
+- [Scotland: First Country in the World to Include LGBT Education – The Organization for World Peace](https://theowp.org/scotland-first-country-in-the-world-to-include-lgbt-education/)
+- [Scotland to embed LGBTI teaching across curriculum | Scotland | The Guardian](https://www.theguardian.com/education/2018/nov/09/scotland-first-country-approve-lgbti-school-lessons)
+- [bwst countries for lgbt inclusive education in education system at DuckDuckGo](https://duckduckgo.com/?q=bwst+countries+for+lgbt+inclusive+education+in+education+system&ia=web)
+- [Are education systems LGBTI-inclusive? UNESCO teams up with youth organization to find out | UNESCO](https://www.unesco.org/en/articles/are-education-systems-lgbti-inclusive-unesco-teams-youth-organization-find-out)
+- [LGBT Inclusive Education | National Platform](https://lgbteducation.scot/)
+- [Time for Inclusive Education (TIE)](https://www.tie.scot/)
+- [LGBTI education - gov.scot](https://www.gov.scot/news/lgbti-education/)
+- [Milestone for equality in schools *UPDATED RELEASE* - gov.scot](https://www.gov.scot/news/milestone-for-equality-in-schools/)
+- [LGBT Inclusive Education | Resources | National Improvement Hub](https://education.gov.scot/resources/lgbt-inclusive-education/)
+- [Scotland becomes first country in world to embed LGBT education in school curriculum | The Scotsman](https://www.scotsman.com/news/politics/scotland-first-country-in-the-world-to-embed-lgbt-education-in-school-curriculum-3393389)
+- [LGBT - Wikipedia](https://en.wikipedia.org/wiki/LGBT)
+- [Sexual revolution - Wikipedia](https://en.wikipedia.org/wiki/Sexual_revolution)
+- [Social science - Wikipedia](https://en.wikipedia.org/wiki/Social_science)
+- [Transgender - Wikipedia](https://en.wikipedia.org/wiki/Transgender)
+
+- [Social structure | Definition, Examples, Theories, & Facts | Britannica](https://www.britannica.com/topic/social-structure)
+
+## SponserBlock
+
+- [ajayyy/SponsorBlock: Skip YouTube video sponsors (browser extension)](https://github.com/ajayyy/SponsorBlock)
+- [po5/mpv_sponsorblock: mpv script to skip sponsored segments of YouTube videos](https://github.com/po5/mpv_sponsorblock)
+
+## USB (ISO) Tools
+
+- [Medicat USB – Documetation and Info](https://medicatusb.com/)
+- [Ventoy](https://www.ventoy.net/en/index.html)
+
+## Mechanical Keyboards
+
+- [ErgoMechBoards](https://www.reddit.com/r/ErgoMechKeyboards/top/?t=year)
+- [Dactyl Generator](https://ryanis.cool/dactyl/#manuform:Ch0IBhAEGgN0d28iBHplcm8qA2JveDIFaW5uaWU4ACIXVQAAgEAYACAAXQAA4EBlAABAQEAASAA=)
+- [Cosmos Keyboard](https://ryanis.cool/cosmos/?utm_source=dactyl)
+- [HotSwap sockets for Pro Micro - YouTube](https://www.youtube.com/watch?v=vIbzaZRjMTc)
+- [How do I socket a microcontroller? – splitkb.com](https://docs.splitkb.com/hc/en-us/articles/360011263059-How-do-I-socket-a-microcontroller-)
+
+## SERMs
+
+- [Nonbinary HRT concept - analysis on SERMs : r/MtF](https://www.reddit.com/r/MtF/comments/mpac16/nonbinary_hrt_concept_analysis_on_serms/)
+- [SERMs - QueerDoc - Curing LGBTQ+ Healthcare Discrimination](https://queerdoc.com/serms-2/)
+- [QueerDoc - Curing LGBTQ+ Healthcare Discrimination](https://queerdoc.com/)
+- [An Exploration of Possibilities for Hormone Therapy in Non-Binary Transfeminine People - Transfeminine Science](https://transfemscience.org/articles/nonbinary-transfem-overview/)
+- [Home - Transfeminine Science](https://transfemscience.org/)
+- [Selective Estrogen Receptor Modulators: A Potential Option For Non-Binary Gender-Affirming Hormonal Care? - PubMed](https://pubmed.ncbi.nlm.nih.gov/34226826/)
+- [Frontiers | Selective Estrogen Receptor Modulators: A Potential Option For Non-Binary Gender-Affirming Hormonal Care?](https://www.frontiersin.org/articles/10.3389/fendo.2021.701364/full)
+
+## 3D Printing
+
+- [Thingiverse - Digital Designs for Physical Objects](https://www.thingiverse.com/)
+
+- [Modular drawer for electronic components (Vase mode) by Mordemot - Thingiverse](https://www.thingiverse.com/thing:5844925)
+- [Compact Steam Train Whistle by ThreeD-Michael - Thingiverse](https://www.thingiverse.com/thing:5884996)
+- [Ender 3 (S1 Pro) Bed Lock by PartyBUS - Thingiverse](https://www.thingiverse.com/thing:5858852)
+- [Banjo Ukulele (Banjolele) by AndreasBastian - Thingiverse](https://www.thingiverse.com/thing:113908)
+- [Thing files for Llaveros Flork (Grupo de 11 diseños) by ValentinBuffa - Thingiverse](https://www.thingiverse.com/thing:5843767/files)
+- [Angry Guard Cat by Lyl3 - Thingiverse](https://www.thingiverse.com/thing:5857092)
+- ["Dick Pic" or "Dick Pick" Guitar Pick by design-colorblind - Thingiverse](https://www.thingiverse.com/thing:5820280)
+- [Coffin tray by Unholyorders - Thingiverse](https://www.thingiverse.com/thing:5871765)
+- [Earplug compact travel case by Motion_Project - Thingiverse](https://www.thingiverse.com/thing:5800079)
+- [Ultra-Smooth Running Spool Holders by Mike_vom_Mars - Thingiverse](https://www.thingiverse.com/thing:5872178)
+- [Thing files for Loud and compact Whistle for your Keychain by ThreeD-Michael - Thingiverse](https://www.thingiverse.com/thing:5846855/files)
+- [Wall Support For Outlet Line by kaikecc - Thingiverse](https://www.thingiverse.com/thing:5848751)
+- [Folding Pocket Utility Knife by Jdalycache - Thingiverse](https://www.thingiverse.com/thing:5846897)
+- [Comments for IKEA Kallax Modular Drawer Partition by Tafelspitz - Thingiverse](https://www.thingiverse.com/thing:2793601)
+- [Wallet, Phone, Keys Organizer by blmurphy822 - Thingiverse](https://www.thingiverse.com/thing:5857496)
+
+### Not Working (When I Checked Them)
+
+- [Free STL file Square Flute In E・3D printable model to download・Cults](https://cults3d.com/en/3d-model/various/square-flute-in-e)
+- [Free STL file PRINT-IN-PLACE SPRING LOADED BOX・3D print design to download・Cults](https://cults3d.com/en/3d-model/home/print-in-place-spring-loaded-box)
+- [Free STL file skate board kid・Object to download and to 3D print・Cults](https://cults3d.com/en/3d-model/art/skate-board-kid)
