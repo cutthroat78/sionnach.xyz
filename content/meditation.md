@@ -37,6 +37,6 @@ This section is for guided meditations that are just described as that and aren'
 
 - [Get Some Sleep (Music, Meditations, and Sleepcasts) - YouTube Playlist by Headspace](https://www.youtube.com/playlist?list=PLW8o3_GFoCBO7CfVk2lWqunKVl0vnFMlU)
 
-#### Pain Relief Meditation
+#### Pain Relief and Pain Maintenance Meditation
 
 - [Meditation for Pain Relief: What to Know & How to Try It - Article by Healthline](https://www.healthline.com/health/meditation-for-chronic-pain)
