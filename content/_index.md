@@ -24,6 +24,8 @@ I don't really like talking/revealing much about myself (online), but the conten
 
 - [Sionnach.xyz](https://sionnach.xyz/)
   - [GitHub Repo](https://github.com/cutthroat78/digital-garden)
+  - [Hugo Theme: Digital Gardenscape](https://github.com/cutthroat78/hugo-digital-gardenscape-theme)
+    - I made this Hugo theme for my/this website as I couldn't find any other Hugo themes that suited my needs
   - This is the website you are on!
 - [Anki Decks](http://anki.sionnach.xyz/)
   - [GitHub Repo](https://github.com/cutthroat78/anki-deck-website)
