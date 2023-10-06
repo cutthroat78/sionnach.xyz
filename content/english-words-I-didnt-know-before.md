@@ -165,3 +165,4 @@ All links below link to that word's entry on [OneLook](https://onelook.com/), wh
 - [scatology](https://www.onelook.com/?w=scatology&ls=a)
 - [fervent](https://www.onelook.com/?w=fervent&ls=a)
 - [pernicious](https://www.onelook.com/?w=pernicious&ls=a)
+- [egalitarian](https://www.onelook.com/?w=egalitarian&ls=a)
