@@ -5,6 +5,7 @@ tags: [
   "germanic-languages",
   "english",
   "vocabulary",
+  "lists",
 ]
 ---
 
