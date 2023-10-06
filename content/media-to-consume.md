@@ -1,5 +1,5 @@
 ---
-title: "List of Media (For Me) To Consume"
+title: "Media To Consume"
 tags: [
   "media",
   "lists",
