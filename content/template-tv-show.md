@@ -5,7 +5,9 @@ tags: [
   "tv-shows",
   "ratings",
   "reviews",
-  "template-pages",
+  "template-pages", # Remove me when using template
+# "_-franchise",
+# "franchises",
 ]
 ---
 
