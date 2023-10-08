@@ -6,7 +6,7 @@ tags: [
   "films",
   "ratings",
   "reviews",
-  "template",
+  "template-pages",
 ]
 ---
 
