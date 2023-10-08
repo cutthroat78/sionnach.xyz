@@ -5,7 +5,8 @@ tags: [
   "franchises",
   "ratings",
   "reviews",
-  "template-pages",
+  "template-pages", # Remove me when using this template
+# "_-franchise",
 ]
 ---
 
