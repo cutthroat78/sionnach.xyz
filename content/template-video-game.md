@@ -5,7 +5,7 @@ tags: [
   "video-games",
   "ratings",
   "reviews",
-  "template",
+  "template-pages",
 ]
 ---
 
