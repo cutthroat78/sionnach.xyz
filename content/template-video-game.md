@@ -7,6 +7,7 @@ tags: [
   "reviews",
   "template-pages",
 # "_-franchise",
+# "franchises",
 ]
 ---
 
