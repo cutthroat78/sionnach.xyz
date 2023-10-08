@@ -5,6 +5,7 @@ tags: [
   "tv-shows",
   "ratings",
   "reviews",
+  "template-pages",
 ]
 ---
 
