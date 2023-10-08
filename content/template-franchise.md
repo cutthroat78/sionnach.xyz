@@ -5,6 +5,7 @@ tags: [
   "franchises",
   "ratings",
   "reviews",
+  "template-pages",
 ]
 ---
 
