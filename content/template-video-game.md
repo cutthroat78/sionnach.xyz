@@ -5,7 +5,7 @@ tags: [
   "video-games",
   "ratings",
   "reviews",
-  "template-pages",
+  "template-pages", # Remove me when using this template
 # "_-franchise",
 # "franchises",
 ]
