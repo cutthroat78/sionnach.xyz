@@ -5,6 +5,7 @@ tags: [
   "books",
   "ratings",
   "reviews",
+  "template-pages",
 ]
 ---
 
