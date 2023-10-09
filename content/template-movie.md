@@ -17,7 +17,7 @@ tags: [
 
 ## Rating
 
-
+/10
 
 ## Review/Comment
 
