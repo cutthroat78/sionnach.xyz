@@ -46,8 +46,8 @@ tags: [
 ### Guides
 
 - [Steam Community :: Guide :: "7 Day Survivor" Achievement for Dummies](https://steamcommunity.com/sharedfiles/filedetails/?id=1246983258)
-- [Steam Community :: Guide :: ALL SURVIVORS IN DEADRISING](https://steamcommunity.com/sharedfiles/filedetails/?id=1433032852&searchtext=all+survivors)
-- [Steam Community :: Guide :: Frank the Pimp](https://steamcommunity.com/sharedfiles/filedetails/?id=1662346030&searchtext=frank+the+pimp)
+- [Steam Community :: Guide :: ALL SURVIVORS IN DEADRISING](https://steamcommunity.com/sharedfiles/filedetails/?id=1433032852&searchtext=all+survivors) - Handy for Saint achievement
+- [Steam Community :: Guide :: Frank the Pimp](https://steamcommunity.com/sharedfiles/filedetails/?id=1662346030&searchtext=frank+the+pimp) - Guide to Get the Frank the Pimp achievement
 - [Steam Community :: Guide :: Full Missions List](https://steamcommunity.com/sharedfiles/filedetails/?id=1661684053)
 - [Steam Community :: Guide :: Transmissionary Achievement](https://steamcommunity.com/sharedfiles/filedetails/?id=1660588102)
 - [Steam Community :: Guide :: Small Chainsaw Power Up Book Location](https://steamcommunity.com/sharedfiles/filedetails/?id=894394956&searchtext=books)
