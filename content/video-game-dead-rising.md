@@ -40,7 +40,7 @@ tags: [
 - [Dead Rising (video game) - Wikipedia](https://en.wikipedia.org/wiki/Dead_Rising_(video_game))
 - [Dead Rising Page | Dead Rising Wiki (deadrising.fandom.com) | Fandom](https://deadrising.fandom.com/wiki/Dead_Rising)
   - [Endings (Dead Rising) | Dead Rising Wiki | Fandom](https://deadrising.fandom.com/wiki/Endings_(Dead_Rising))
-- [Dead Rising Walkthrough Page | Dead Rising Wiki (dead-rising.fandom.com) | Fandom](https://dead-rising.fandom.com/wiki/Dead_Rising_Walkthrough)
+- [Dead Rising Walkthrough Page | Dead Rising Wikia (dead-rising.fandom.com) | Fandom](https://dead-rising.fandom.com/wiki/Dead_Rising_Walkthrough)
   - [Dead Rising Books | Dead Rising Wiki | Fandom](https://dead-rising.fandom.com/wiki/Dead_Rising_Books#Book_List)
 
 ### Guides
