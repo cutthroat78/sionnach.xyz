@@ -14,7 +14,16 @@ This is a page of resources for when I am starting to investigate/learn about a 
   - [Simple English Wikipedia](https://simple.wikipedia.org)
 - [Encyclopedia Britannica | Britannica](https://www.britannica.com/)
 
+### Courses
+
+#### Online Courses
+
+- [CrashCourse - YouTube Channel](https://www.youtube.com/@crashcourse)
+  - [Crash Course - Official Website](https://thecrashcourse.com/)
+
 ### Communities and Groups
+
+#### Online Communities and Groups
 
 - [Reddit](https://www.reddit.com/?rdt=40028)
 
