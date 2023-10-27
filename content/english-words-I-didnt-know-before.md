@@ -168,3 +168,6 @@ All links below link to that word's entry on [OneLook](https://onelook.com/), wh
 - [egalitarian](https://www.onelook.com/?w=egalitarian&ls=a)
 - [cathartic](https://www.onelook.com/?w=cathartic&ls=a)
 - [seminary](https://onelook.com/?w=seminary&ls=a)
+- [therianthropy](https://www.onelook.com/?w=therianthropy&ls=a)
+- [therianthropic](https://www.onelook.com/?w=therianthropic&ls=a)
+- [therian](https://www.onelook.com/?w=therian&ls=a)
