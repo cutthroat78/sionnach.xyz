@@ -12,8 +12,7 @@ tags: [
 ]
 ---
 
-- Watched Fully?
-  - No
+Watched Fully?: No
 
 ## Rating
 
