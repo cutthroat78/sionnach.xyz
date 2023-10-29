@@ -9,7 +9,7 @@ tags: [
 ]
 ---
 
-## Games
+## Video Games
 
 ### Main Series (In Chronological Order)
 
