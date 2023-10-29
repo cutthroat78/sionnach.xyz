@@ -16,7 +16,7 @@ tags: [
 - *Hitman: Contracts*
 - *Hitman: Blood Money*
 - [*Hitman: Absolution*]({{<ref video-game-hitman-absolution.md>}})
-  - [*Hitman: Sniper Challenge*]({{< ref video-game-hitman-sniper-challenge.md.}})
+  - [*Hitman: Sniper Challenge*]({{< ref video-game-hitman-sniper-challenge.md>}})
 - *Hitman GO*
 - *Hitman: Sniper*
 - World of Assassination Series
