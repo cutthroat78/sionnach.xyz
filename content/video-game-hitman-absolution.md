@@ -1,5 +1,5 @@
 ---
-title: 'Video Game: "Hitman Absolution"'
+title: 'Video Game: "Hitman: Absolution"'
 tags: [
   "media",
   "video-games",
