@@ -51,6 +51,7 @@ This is my list of Call of Duty zombies challenges (all games) that I have seen 
   - [Kino Der Toten, But I Attempt The Iconic 115 Challenge - FPSpsycho](https://www.youtube.com/watch?v=q5f2NMPZPQM)
 - Rotational Room Challenge
   - Every round you must move into the next room of the map
+  - If you can't afford door to next room when next round comes around, stand with your back to the door until you have enough points to open the door
 
 ## Mods
 
