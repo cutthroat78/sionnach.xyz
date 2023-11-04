@@ -171,3 +171,7 @@ All links below link to that word's entry on [OneLook](https://onelook.com/), wh
 - [therianthropy](https://www.onelook.com/?w=therianthropy&ls=a)
 - [therianthropic](https://www.onelook.com/?w=therianthropic&ls=a)
 - [therian](https://www.onelook.com/?w=therian&ls=a)
+- [bonny](https://www.onelook.com/?w=bonny&ls=a)
+- [bonnie](https://www.onelook.com/?w=bonnie&ls=a)
+- [mousle](https://www.onelook.com/?w=mousle&ls=a)
+- [sojourn](https://www.onelook.com/?w=sojourn&ls=a)
