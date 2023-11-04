@@ -2,7 +2,7 @@
 title: "General Resources"
 tags: [
   "resources",
-  "starting-point",
+  "starting-point-for-research",
   "learning",
   "online-courses",
 ]
