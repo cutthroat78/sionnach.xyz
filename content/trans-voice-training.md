@@ -1,7 +1,7 @@
 ---
 title: "Trans Voice Training / Trans Voice Therapy"
 tags: [
-  "transgenderism",
+  "transgender",
   "LGBTQ+",
   "voice-training",
 ]
