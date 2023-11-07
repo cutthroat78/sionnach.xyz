@@ -27,6 +27,7 @@ tags: [
 
 - [Healthline: Medical information and health advice you can trust](https://www.healthline.com/) - Healthline has plenty of articles on piercings, but they don't categorise them or put them all in one place. You will have to search for them
   - [Sleeping with Earrings: Is It Safe? - Article from Healthline](https://www.healthline.com/health/sleep-with-earrings)
+  - [How to Clean an Ear Piercing: Top 10 Tips for Proper Care - Article from Healthline](https://www.healthline.com/health/how-to-clean-ear-piercing)
 
 ### Places to Buy Jewellery
 
