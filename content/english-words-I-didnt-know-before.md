@@ -175,3 +175,5 @@ All links below link to that word's entry on [OneLook](https://onelook.com/), wh
 - [bonnie](https://www.onelook.com/?w=bonnie&ls=a)
 - [mousle](https://www.onelook.com/?w=mousle&ls=a)
 - [sojourn](https://www.onelook.com/?w=sojourn&ls=a)
+- [implicit](https://www.onelook.com/?w=implicit&ls=a)
+  - [implicitly](https://www.onelook.com/?w=implicitly&ls=a)
