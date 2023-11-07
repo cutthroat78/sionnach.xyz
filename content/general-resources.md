@@ -16,6 +16,10 @@ This is a page of general resources for any topics. I may use this page for when
   - [Simple English Wikipedia](https://simple.wikipedia.org)
 - [Encyclopedia Britannica | Britannica](https://www.britannica.com/)
 
+### Guides and How Tos
+
+- [WikiHow: How-to instructions you can trust](https://www.wikihow.com/)
+
 ### Courses
 
 #### Online Courses
