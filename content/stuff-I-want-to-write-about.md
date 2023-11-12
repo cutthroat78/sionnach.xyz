@@ -21,4 +21,8 @@ tags: [
 - Computing
   - [Bash]({{< ref bash.md >}})
   - [Computer Networking]({{< ref computer-networking.md >}})
+  - [Conky]({{< ref conky.md >}})
+  - Pacman
 - [Digital Gardens]({{< ref digital-gardens.md >}})
+- Music Production
+  - Ardour
