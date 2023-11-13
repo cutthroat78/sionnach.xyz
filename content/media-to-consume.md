@@ -28,6 +28,9 @@ Any media that I have consumed will be removed from this list and mostly have a 
 
 ## Movies
 
+- [*Anatomy of a Fall* (2023) - IMDb](https://www.imdb.com/title/tt17009710/?ref_=tt_tpks_tt_t_4_pd_detail_2_pbr_ic)
+- [*Four Daughters* (2023 film) - Wikipedia](https://en.wikipedia.org/wiki/Four_Daughters_(2023_film))
+
 ## TV Shows
 
 ## Video Games
