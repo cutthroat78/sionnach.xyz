@@ -37,6 +37,7 @@ tags: [
 ## Links
 
 - [DEAD RISING® | Steam Store Page](https://store.steampowered.com/app/427190/DEAD_RISING/)
+- [Dead Rising 1 | Introducing Frank West - Freelance Photojournalist (Official Dead Rising Website)](https://www.deadrising.com/dead-rising-1/index.html)
 - [Dead Rising (video game) - Wikipedia](https://en.wikipedia.org/wiki/Dead_Rising_(video_game))
 - [Dead Rising Page | Dead Rising Wiki (deadrising.fandom.com) | Fandom](https://deadrising.fandom.com/wiki/Dead_Rising)
   - [Endings (Dead Rising) | Dead Rising Wiki | Fandom](https://deadrising.fandom.com/wiki/Endings_(Dead_Rising))
