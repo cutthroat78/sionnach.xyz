@@ -34,11 +34,12 @@ tags: [
 ## Comic Books
 
 - *Dead Rising: Road to Fortune*
-- *Dead Rising 3 (2013)*
+- *Dead Rising 3* (2013)
 
 ## Links
 
 - [Dead Rising - Wikipedia](https://en.wikipedia.org/wiki/Dead_Rising)
+- [Dead Rising - Intense open-world zombie-slaying action (Official Dead Rising Website)](https://www.deadrising.com/dead-rising/index.html)
 - [Dead Rising Wiki (deadrising.fandom.com) | Fandom](https://deadrising.fandom.com/wiki/Dead_Rising_Wiki)
 - [Dead Rising Wikia (dead-rising.fandom.com) | Fandom](https://dead-rising.fandom.com/wiki/Dead_Rising_Wiki)
 - [r/deadrising - Reddit](https://www.reddit.com/r/deadrising/)
