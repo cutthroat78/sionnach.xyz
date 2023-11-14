@@ -37,6 +37,7 @@ tags: [
 ## Links
 
 - [Dead Rising® 2 on Steam](https://store.steampowered.com/app/45740/Dead_Rising_2/)
+- [Dead Rising 2 | Chuck Greene - Reckless playboy turned family man (Official Dead Rising Website)](https://www.deadrising.com/dead-rising-2/index.html)
 - [Dead Rising 2 - Wikipedia](https://en.wikipedia.org/wiki/Dead_Rising_2)
 - [Dead Rising 2 | Dead Rising Wiki (deadrising.fandom.com) | Fandom](https://deadrising.fandom.com/wiki/Dead_Rising_2)
 - [Dead Rising 2 | Dead Rising Wiki (dead-rising.fandom.com) | Fandom](https://dead-rising.fandom.com/wiki/Dead_Rising_2)
