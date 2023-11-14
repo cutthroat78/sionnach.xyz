@@ -12,7 +12,7 @@ tags: [
 
 | | |
 |-|-|
-| Played? | Yes |
+| Played? | Yes (x2) |
 | Platform Played On: | PC (Steam) |
 | Finished? | Yes |
 | Finished 100%? | No |
