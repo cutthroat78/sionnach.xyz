@@ -13,9 +13,9 @@ tags: [
 
 ### Main Series (In Chronological Order)
 
-- [*Dead Rising*]({{<ref video-game-dead-rising.md>}})
+- [*Dead Rising*]({{< ref video-game-dead-rising.md >}})
 - *Dead Rising 2: Case Zero*
-- *Dead Rising 2*
+- [*Dead Rising 2*]({{< ref video-game-dead-rising-2.md >}})
 - *Dead Rising 2: Case West*
 - *Dead Rising 3*
 - *Dead Rising 4*
