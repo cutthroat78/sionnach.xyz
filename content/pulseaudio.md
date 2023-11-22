@@ -23,7 +23,7 @@ I have tested this and it works for me
 2. ```pacmd load-module module-remap-source source_name=mono master={INSERT SOURCE NAME HERE} master_channel_map=front-left,front-right channel_map=mono,mono```
   - This will create a virtual mono input that uses both channels for the one channel from the stereo input that we specified
 
-#### Make A Virtual Input Source That Is Mono Using The Left or Right Channel Of An (Hardware) Input That Is Stereo
+#### Make A Virtual Input Source That Is Mono Using Only The Left or Right Channel Of An (Hardware) Input That Is Stereo
 
 I have tested this and I couldn't get it working for me
 
@@ -31,7 +31,7 @@ I have tested this and I couldn't get it working for me
   - From what I can tell, you can't make a remap a source that is set to default
 2. To map the left channel: ```pacmd load-module module-remap-source master={INSERT SOURCE NAME HERE} channels=1 master_channel_map=front-left channel_map=mono```
   - To map the right channel: ```pacmd load-module module-remap-source master={INSERT SOURCE NAME HERE} channels=1 master_channel_map=front-right channel_map=mono```
-  - This will create a virtual mono input that uses the left or right channel (depending on which one you specified) for the one channel from the stereo input that we specified
+  - This will create a virtual mono input that uses only the left or right channel (depending on which one you specified) for the one channel from the stereo input that we specified
 
 ## Links
 
