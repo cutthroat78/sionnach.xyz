@@ -8,6 +8,8 @@ tags: [
   "FOSS",
   "linux",
   "CLI",
+  "audio",
+  "sound",
 ]
 ---
 

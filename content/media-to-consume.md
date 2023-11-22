@@ -62,3 +62,12 @@ Any media that I have consumed will be removed from this list and mostly have a 
 - [*Into the Breach*](https://en.wikipedia.org/wiki/Into_the_Breach)
 - *Hollow Knight*
 - Metal Gear
+- *Yume Nikki*
+  - [Yume Nikki on Steam](https://store.steampowered.com/app/650700/Yume_Nikki/)
+  - [Yume Nikki Online Project](https://ynoproject.net/)
+  - [Yume Nikki Wiki | Fandom](https://yumenikki.fandom.com/wiki/Yume_Nikki_Wiki)
+  - [Yume Nikki - Wikipedia](https://en.wikipedia.org/wiki/Yume_Nikki)
+- *Yuppie Psycho*
+  - [Yuppie Psycho: Executive Edition on Steam](https://store.steampowered.com/app/597760/Yuppie_Psycho_Executive_Edition/)
+  - [Official Yuppie Psycho Wiki](https://yuppiepsycho.fandom.com/wiki/Yuppie_Psycho_Wiki)
+  - [Yuppie Psycho - Wikipedia](https://en.wikipedia.org/wiki/Yuppie_Psycho)
