@@ -11,13 +11,13 @@ tags: [
 
 This list was started on 27/05/2023
 
-Some words on this list I may have heard before and/or might have had some idea on how to use them, but I didn't fully understand them or know how to use them properly
+Criteria for a word to get on this list:
+1. Has to be a word in [Modern English](https://en.wikipedia.org/wiki/Modern_English)
+2. Either:
+  - I have never heard the word before
+  - I have heard the word before and may previously had some idea on how to use it, somewhat understand what is meant or both, but I didn't fully understand the word, know how to use the word properly or both
 
-All links below link to that word's entry on [OneLook](https://onelook.com/), which is a meta search engine for English dictionaries
-
-<!--
-- [](https://www.onelook.com/?w= &ls=a)
--->
+All links below are that word's entry on [OneLook](https://onelook.com/), which is a meta search engine for English dictionaries. This allows you to pick the dictionary you like to use or see the definitions on multiple dictionaries
 
 - [defenestration](https://www.onelook.com/?w=defenestration&ls=a)
 - [compersion](https://www.onelook.com/?w=compersion&ls=a)
@@ -209,3 +209,7 @@ All links below link to that word's entry on [OneLook](https://onelook.com/), wh
 - [contraindicate](https://onelook.com/?w=contraindicate&ls=a)
   - [contraindication](https://onelook.com/?w=contraindication&ls=a)
   - [contraindicative](https://onelook.com/?w=contraindicative&ls=a)
+- [despondent](https://onelook.com/?w=despondent&ls=a)
+- [listless](https://onelook.com/?w=listless&ls=a)
+- [ennui](https://onelook.com/?w=ennui&ls=a)
+- [schadenfreude](https://onelook.com/?w=schadenfreude&ls=a)
