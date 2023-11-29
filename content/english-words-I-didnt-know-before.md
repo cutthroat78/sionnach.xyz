@@ -213,3 +213,4 @@ All links below are that word's entry on [OneLook](https://onelook.com/), which 
 - [listless](https://onelook.com/?w=listless&ls=a)
 - [ennui](https://onelook.com/?w=ennui&ls=a)
 - [schadenfreude](https://onelook.com/?w=schadenfreude&ls=a)
+- [junta](https://onelook.com/?w=junta&ls=a)
