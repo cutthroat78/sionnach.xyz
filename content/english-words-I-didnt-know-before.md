@@ -218,3 +218,4 @@ All links below are that word's entry on [OneLook](https://onelook.com/), which 
   - [pedagogical](https://onelook.com/?w=pedagogical&ls=a)
   - [pedagogic](https://onelook.com/?w=pedagogic&ls=a)
 - [pedagogue](https://onelook.com/?w=pedagogue&ls=a)
+- [indelible](https://onelook.com/?w=indelible&ls=a)
