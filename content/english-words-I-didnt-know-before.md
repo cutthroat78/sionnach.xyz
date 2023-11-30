@@ -214,3 +214,7 @@ All links below are that word's entry on [OneLook](https://onelook.com/), which 
 - [ennui](https://onelook.com/?w=ennui&ls=a)
 - [schadenfreude](https://onelook.com/?w=schadenfreude&ls=a)
 - [junta](https://onelook.com/?w=junta&ls=a)
+- [pedagogy](https://onelook.com/?w=pedagogy&ls=a)
+  - [pedagogical](https://onelook.com/?w=pedagogical&ls=a)
+  - [pedagogic](https://onelook.com/?w=pedagogic&ls=a)
+- [pedagogue](https://onelook.com/?w=pedagogue&ls=a)
