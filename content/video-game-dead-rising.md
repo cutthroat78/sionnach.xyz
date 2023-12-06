@@ -20,7 +20,7 @@ tags: [
 
 ## Rating
 
-/10
+7/10
 
 ## Review/Comment
 
