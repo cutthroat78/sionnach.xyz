@@ -15,7 +15,8 @@ Comanche in Comanche is “Nʉmʉnʉʉ” (pronounced: NUH-MUH-NUH)
 
 - [Comanche language - Wikipedia](https://en.wikipedia.org/wiki/Comanche_language)
 - Memrise Course: [Comanche - by CLCPC - Memrise](https://app.memrise.com/community/course/1981870/comanche/)
-- Beginner's Packet: [Beginner's Packet | Comanche Language & Cultural Preservation](http://www.comanchelanguage.org/beginner-s-packet.html) - Only available to enrolled tribal members
+- Beginner's Packet: [Beginner's Packet | Comanche Language & Cultural Preservation](http://www.comanchelanguage.org/beginner-s-packet.html) 
+  - Only available to enrolled tribal members
 - Webonary.org Dictionary: [Comanche Dictionary - nahmaʔai tanʉ nʉmʉniwʉnʉ!](https://www.webonary.org/comanche/)
   - No audio
 - [Comanche National Museum and Cultural Center | Learn the Comanche Language](https://comanchemuseum.com/dictionary.html)
