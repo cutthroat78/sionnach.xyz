@@ -50,7 +50,8 @@ Funny, simple and cheap game to play for a few minutes, or get all the achieveme
       - The sound of the lawnmower
       - Certain things in the environment or on the lawnmower
       - The way the grass changes from uncut to cut behind the lawnmower
-  
+  - You can lower the graphics if your system has trouble playing the game at higher graphics
+    - Lower the graphics really low and seeing the garbled mess is fun to do
 - Okay/Neutral:
   - Environment is alright to look at and explore
   - It is very hard to lose at this game
@@ -67,7 +68,7 @@ Funny, simple and cheap game to play for a few minutes, or get all the achieveme
     - No issue to me, but may be for other people
   - You can get stuck and be forced to restart or wait out until you run out of fuel
     - I got stuck once on the rocks that were around river
-  - The resolution is capped to 1280x720
+  - When I select a resolution above 1280x720, the game looks the same as when it was on 1280x720
   - Performance
     - Lag spikes when turning sometimes
     - Screen tearing happens often for me
@@ -81,6 +82,12 @@ Funny, simple and cheap game to play for a few minutes, or get all the achieveme
 
 - To get the "Play 60 minutes in row" achievement, keep the game running in the background while you do other things and come back to it every once and a while to get fuel, so you don't lose
   - You could do this trick for the "Play 10 minutes" and "Play 15 minute" achievement
+
+## Notes
+
+- In my game, the fuel canisters were a dark green, but other gameplay and the tutorial shows and says it is yellow
+- Perhaps, my game ran poorly due to my setup, but with how simple and non-intensive this game is or should be I feel this isn't the case
+  - The game does look to run better in other people's gameplay, so I am not sure why I got the performance issues I got
 
 ## Links
 
