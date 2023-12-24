@@ -52,7 +52,7 @@ Funny, simple and cheap game to play for a few minutes, or get all the achieveme
       - Certain things in the environment or on the lawnmower
       - The way the grass changes from uncut to cut behind the lawnmower
   - You can lower the graphics if your system has trouble playing the game at higher graphics
-    - Lower the graphics really low and seeing the garbled mess is fun to do
+    - Lowering the graphics really low and seeing the garbled mess is fun to do
 - Okay/Neutral:
   - Environment is alright to look at and explore
   - It is very hard to lose at this game
