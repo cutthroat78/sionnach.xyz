@@ -62,6 +62,7 @@ Funny, simple and cheap game to play for a few minutes, or get all the achieveme
 - Bad:
   - Game can get boring after a minute or more
     - When it gets boring is different for everyone
+  - Game doesn't have Trading Cards on Steam
   - Bad English grammar and spelling
     - No issue to me, but may be for other people
   - You can get stuck and be forced to restart or wait out until you run out of fuel
