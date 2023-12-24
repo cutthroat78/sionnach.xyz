@@ -34,6 +34,7 @@ Funny, simple and cheap game to play for a few minutes, or get all the achieveme
   - Very few and easy to get achievements
     - That you can put on your steam profile as a joke
   - Pumpkins are somewhat easy to find and help you explore the environment
+  - Going for a high score or trying to beat other people's score could be fun for some people
   - You can mow the lawns of the houses, not just the fields
   - Two camera angles, one third person, the other first person
   - Simple controls
@@ -72,6 +73,7 @@ Funny, simple and cheap game to play for a few minutes, or get all the achieveme
   - Performance
     - Lag spikes when turning sometimes
     - Screen tearing happens often for me
+  - The game doesn't have any leaderboards for high scores and doesn't even save your own high score
   - Sound Design
     - There is no music in game, only in the menu
     - The lawnmower sound can sound relaxing, but it could also be annoying or boring to people as the sound never changes
