@@ -7,6 +7,7 @@ tags: [
   "reviews",
   "dead-rising-franchise",
   "franchises",
+  "review-to-be-written",
 ]
 ---
 
@@ -14,7 +15,7 @@ tags: [
 |-|-|
 | Played? | Yes (x2) |
 | Platform Played On: | PC (Steam) |
-| Finished? | Yes |
+| Finished? | Yes (x2) |
 | Finished 100%? | No |
 | Gotten All (Platform) Achievements? | No |
 
@@ -24,15 +25,9 @@ tags: [
 
 ## Review/Comment
 
-
-
-## Tips/Tricks
-
-
+## Tips and Tricks
 
 ## Notes
-
-
 
 ## Links
 
@@ -41,3 +36,5 @@ tags: [
 - [Dead Rising 2 - Wikipedia](https://en.wikipedia.org/wiki/Dead_Rising_2)
 - [Dead Rising 2 | Dead Rising Wiki (deadrising.fandom.com) | Fandom](https://deadrising.fandom.com/wiki/Dead_Rising_2)
 - [Dead Rising 2 | Dead Rising Wiki (dead-rising.fandom.com) | Fandom](https://dead-rising.fandom.com/wiki/Dead_Rising_2)
+
+- [Steam Community :: Guide :: Free Zombrex locations.](https://steamcommunity.com/sharedfiles/filedetails/?id=117556817)
