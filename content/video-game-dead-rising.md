@@ -7,6 +7,7 @@ tags: [
   "reviews",
   "dead-rising-franchise",
   "franchises",
+  "review-to-be-written",
 ]
 ---
 
