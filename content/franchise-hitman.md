@@ -3,6 +3,7 @@ title: "Franchise: Hitman"
 tags: [
   "media",
   "franchises",
+  "video-games",
   "ratings",
   "reviews",
   "hitman-franchise",
