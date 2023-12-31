@@ -3,6 +3,7 @@ title: "Franchise: Dead Rising"
 tags: [
   "media",
   "franchises",
+  "video-games",
   "ratings",
   "reviews",
   "dead-rising-franchise",
