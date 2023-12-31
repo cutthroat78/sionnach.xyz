@@ -24,7 +24,7 @@ tags: [
 ### Non-Canon
 
 - *Dead Rising: Chop Till You Drop*
-- *Dead Rising 2: Off the Record*
+- [*Dead Rising 2: Off the Record*]({{< ref video-game-dead-rising-2-off-the-record.md >}})
 
 ## Films/Movies
 
