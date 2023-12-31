@@ -3,6 +3,7 @@ title: "Franchise: Lawnmower Game"
 tags: [
   "media",
   "franchises",
+  "video-games",
   "ratings",
   "reviews",
   "lawnmower-game-franchise",
