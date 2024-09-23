@@ -1,51 +1,37 @@
 ---
-title: "Home Page"
+title: "Home"
 ---
-
-<!--
-- Add Reasons Why and What I Use This Digital Garden For - Heading and Content
-- Add Warnings/Things to Note - Heading and Content
--->
 
 ## About Me
 
-Hello, I call myself Sionnach online and this is my website that I mainly use to host my [digital garden]({{< ref digital-gardens.md >}})
+Autodidact, knowledge obtainer, FOSS Enthusiast, Unraid an Arch Linux user, Amateur Linguist and Philosopher, Anarchist and Constantly Trying To Figure Out What To Do With My Life
 
-I don't really like talking/revealing much about myself (online), but the contents of my digital garden should give you an idea on things I like (though I do like learning in general (about anything and everything))
+Currently doing a PLC course in Music Production
 
 ### Accounts and Contact
 
-- [GitHub](https://github.com/cutthroat78)
 - Email: contact-sionnach.truffle781[AT]slmails.com
   - Swap ```[AT]``` with ```@``` before using above address
-  - The above address is an [SimpleLogin](https://simplelogin.io) email alias
+  - The above address is a [SimpleLogin](https://simplelogin.io) email alias
+- [GitHub](https://github.com/cutthroat78)
 
-### Projects
+- Media Tracking
+  - [Trakt]()
+  - [GoodReads](https://goodreads.com/sionnach1)
+  - [Backloggd]()
 
-- [Sionnach.xyz](https://sionnach.xyz/)
-  - [GitHub Repo](https://github.com/cutthroat78/digital-garden)
-  - [Hugo Theme: Digital Gardenscape](https://github.com/cutthroat78/hugo-digital-gardenscape-theme)
-    - I made this Hugo theme for my/this website as I couldn't find any other Hugo themes that suited my needs
-  - This is the website you are on!
-- [Anki Decks](http://anki.sionnach.xyz/)
-  - [GitHub Repo](https://github.com/cutthroat78/anki-deck-website)
-  - I make Anki Decks on various topics and this website lists the download links and GitHub repos for each Anki deck
-- [LibreLingo](https://librelingo.app/) which was created by [Kantord](https://github.com/kantord)
-  - [GitHub Repo](https://github.com/LibreLingo/LibreLingo)
-  - A community-owned language-learning platform. I am making LibreLingo courses and I have helped a bit with the project <!--Add any LibreLingo courses I have made when I finish them or when I actually start work on them-->
+# Current Focuses
 
-#### Old
+Inspired by [pyratebeard](https://pyratebeard.net) and [nownownow.com](https://nownownow.com/about)
 
-- [Leaving Cert Notes](https://cutthroat78.github.io/Leaving-Cert-Notes)
-  - [GitHub Repo](https://github.com/cutthroat78/Leaving-Cert-Notes)
-  - A repo full of notes for the (Irish) Leaving Cert
-- [Language Learning Resources](https://cutthroat78.github.io/Language-Learning-Resources) <!--Remove me when I move stuff from here moved to digital garden-->
-  - [GitHub Repo](https://github.com/cutthroat78/Language-Learning-Resources)
-  - A repo with (lists) of resources and Anki decks to learn (human) languages
-
-More of my older and archived projects can be found on my [GitHub](https://github.com/cutthroat78?tab=repositories)
-
-### Associations
-
-- [Dublin Linux Community](https://dublinlinux.org)
-- [LibreLingo](https://github.com/LibreLingo/LibreLingo)
+- Media
+  - Video Game(s): *Plants Vs. Zombies*
+  - Book(s): [*Climate Capitalism: Winning the Global Race to Zero Emissions*](https://www.goodreads.com/book/show/199291635-climate-capitalism)
+  - TV Show(s): *Regular Show* & *Breaking Bad*
+  - Last Watch Movie: Don't Remember
+- Study and Education:
+  - Academic Study: Music Production
+  - Autodidactic Study: Linguistics
+  - Language(s): Irish (Gaeilge)
+- Projects:
+  - None (For The Moment)
