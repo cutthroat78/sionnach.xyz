@@ -4,7 +4,7 @@ title: "Home"
 
 ## About Me
 
-Autodidact, knowledge obtainer, FOSS Enthusiast, Unraid an Arch Linux user, Amateur Linguist and Philosopher, Anarchist and Constantly Trying To Figure Out What To Do With My Life
+Autodidact, knowledge obtainer, FOSS enthusiast, Unraid and Arch Linux user, Amateur Linguist and Philosopher, Anarchist and constantly trying to figure out what to do with my life
 
 Currently doing a PLC course in Music Production
 
@@ -14,11 +14,12 @@ Currently doing a PLC course in Music Production
   - Swap ```[AT]``` with ```@``` before using above address
   - The above address is a [SimpleLogin](https://simplelogin.io) email alias
 - [GitHub](https://github.com/cutthroat78)
+- [Steam](https://steamcommunity.com/id/sionnachxyz)
 
 - Media Tracking
-  - [Trakt]()
   - [GoodReads](https://goodreads.com/sionnach1)
   - [Backloggd]()
+  - [Trakt]()
 
 # Current Focuses
 
