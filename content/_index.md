@@ -18,7 +18,7 @@ Currently doing a PLC course in Music Production
 
 - Media Tracking
   - [GoodReads](https://goodreads.com/sionnach1)
-  - [Backloggd]()
+  - [Backloggd](https://www.backloggd.com/u/sionnach)
   - [Trakt]()
 
 # Current Focuses
