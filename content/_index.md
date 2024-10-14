@@ -17,9 +17,9 @@ Currently doing a PLC course in Music Production
 - [Steam](https://steamcommunity.com/id/sionnachxyz)
 
 - Media Tracking
-  - [GoodReads](https://goodreads.com/sionnach1)
-  - [Backloggd](https://www.backloggd.com/u/sionnach)
-  - [Trakt]()
+  - Books: [GoodReads](https://goodreads.com/sionnach1)
+  - Video Games: [Backloggd](https://www.backloggd.com/u/sionnach)
+  - TV Shows and Movies: [Simkl](https://simkl.com/7055467/dashboard)
 
 # Current Focuses
 
