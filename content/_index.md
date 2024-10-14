@@ -20,7 +20,7 @@ Currently doing a PLC course in Music Production
 
 - Books: [GoodReads](https://goodreads.com/sionnach1)
 - Video Games: [Backloggd](https://www.backloggd.com/u/sionnach)
-- TV Shows and Movies: [Simkl](https://simkl.com/7055467/dashboard)
+- TV Shows and Movies: [Simkl](https://simkl.com/7055467)
 
 # Current Focuses
 
