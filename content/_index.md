@@ -16,20 +16,17 @@ Currently doing a PLC course in Music Production
 - [GitHub](https://github.com/cutthroat78)
 - [Steam](https://steamcommunity.com/id/sionnachxyz)
 
-- Media Tracking
-  - Books: [GoodReads](https://goodreads.com/sionnach1)
-  - Video Games: [Backloggd](https://www.backloggd.com/u/sionnach)
-  - TV Shows and Movies: [Simkl](https://simkl.com/7055467/dashboard)
+#### Media Tracking
+
+- Books: [GoodReads](https://goodreads.com/sionnach1)
+- Video Games: [Backloggd](https://www.backloggd.com/u/sionnach)
+- TV Shows and Movies: [Simkl](https://simkl.com/7055467/dashboard)
 
 # Current Focuses
 
 Inspired by [pyratebeard](https://pyratebeard.net) and [nownownow.com](https://nownownow.com/about)
 
-- Media
-  - Video Game(s): *Plants Vs. Zombies*
-  - Book(s): [*Climate Capitalism: Winning the Global Race to Zero Emissions*](https://www.goodreads.com/book/show/199291635-climate-capitalism)
-  - TV Show(s): *Regular Show* & *Breaking Bad*
-  - Last Watch Movie: Don't Remember
+- Media - Check My Accounts [Here](#media-tracking)
 - Study and Education:
   - Academic Study: Music Production
   - Autodidactic Study: Linguistics
