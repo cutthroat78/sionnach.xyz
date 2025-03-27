@@ -1,3 +1,0 @@
----
-title: "Music Industry Studies"
----
