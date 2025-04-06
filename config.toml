@@ -6,9 +6,10 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
   name = "Sionnach"
-  headline = "Sionnach.s Website"
+  headline = "Sionnach's Website"
   image = "favicon.png"
   links = [
+    { link = { href = "content/index/", text = "Writings", target = "_self" } },
     { link = { href = "https://ko-fi.com/sionnachxyz", text = "Ko-Fi (Donations)" } },
     { youtube = "https://youtube.com/@sionnachxyz" },
     { instagram = "https://blackscreen.app/" },
