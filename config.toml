@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
   image = "favicon.png"
   links = [
     { link = { href = "writings/", text = "Writings", target = "_self" } },
-    { kofi = "https://ko-fi.com/sionnachxyz", text = "Donate (Ko-Fi)" },
+    { kofi = { href = "https://ko-fi.com/sionnachxyz", text = "Donate (Ko-Fi)" } },
     { youtube = "https://youtube.com/@sionnachxyz" },
     { instagram = "https://blackscreen.app/" },
   ]
