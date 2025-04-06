@@ -9,7 +9,7 @@ disableKinds = ["taxonomy", "term"]
   headline = "Sionnach's Website"
   image = "favicon.png"
   links = [
-    { link = { href = "content/index/", text = "Writings", target = "_self" } },
+    { link = { href = "writings/", text = "Writings", target = "_self" } },
     { link = { href = "https://ko-fi.com/sionnachxyz", text = "Ko-Fi (Donations)" } },
     { youtube = "https://youtube.com/@sionnachxyz" },
     { instagram = "https://blackscreen.app/" },
