@@ -13,7 +13,7 @@ Each of these are a text or video that I recommend for anyone who is a beginner 
 - Text: [*Basic Principles of Anarchism* by *Morpheus*](https://theanarchistlibrary.org/library/morpheus-basic-principles-of-anarchism)
 - Video: [*How Anarchy Works* by *Andrewism*](https://www.youtube.com/watch?v=lrTzjaXskUU)
 - Text: [*What is Prefigurative Politics?* by *Prefigurative Action*](https://www.instagram.com/p/DORvu-9Eh38/)
-  - [PDF Version](texts/introduction/What-Is-Prefigurative-Politics-by-Prefigurative-Action.pdf)
+  - [PDF Version](/texts/introduction/What-Is-Prefigurative-Politics-by-Prefigurative-Action.pdf)
 - Text: [*anarchism starts in the now: hope for a better future* by *maia arson crimew*](https://theanarchistlibrary.org/library/maia-arson-crimew-anarchism-starts-in-the-now-hope-for-a-better-future-1)
 
 ## Praxis (Taking Action)
@@ -25,6 +25,8 @@ Each of these are a text or video that I recommend for anyone who is a beginner 
 - [** by **]()
 
 #### Mutual Aid
+
+##### Free Argos Catalogue
 
 - [** by **]()
 
@@ -116,4 +118,5 @@ Each of these are a text or video that I recommend for anyone who is a beginner 
 
 This is a small sections of texts and videos that I found interesting and/or fun to read, but only contributed very little or nothing to my [Critical Self-Theory](#critical-self-theory)
 
-- [** by **]()
+- Text: [*I Am An Anarkist* by *Elbert Hubbard*]()
+  - Text: [*Jesus Was An Anarkist* by *Elbert Hubbard*]()
