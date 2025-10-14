@@ -18,11 +18,27 @@ Each of these are a text or video that I recommend for anyone who is a beginner 
 
 ## Praxis (Taking Action)
 
-_
+- [** by **]()
 
 ### Prefiguration
 
-- _
+- [** by **]()
+
+#### Mutual Aid
+
+- [** by **]()
+
+#### Organising
+
+- [** by **]()
+
+#### Decision Making
+
+- [** by **]()
+
+#### Care
+
+- [** by **]()
 
 ### Confrontation
 
@@ -36,87 +52,68 @@ _
 
 ##### Know Your Rights
 
-- _
+- [** by **]()
 
-### Action For Palestine
+#### Hacking
+
+- [** by **]()
+
+#### Action For Palestine
 
 - Text: [*Lessons on Taking the School* by *CrimethInc.*](https://cdn.crimethinc.com/assets/articles/2024/04/23/lessons-on-taking-the-school_print_black_and_white.pdf)
 
 ## Theory and Philosophy
 
-- _
+- [** by **]()
 
-## Social Analysis
+### Critical Self-Theory
 
-_
+- [** by **]()
 
-## Academic Disciplines
+### Queerness, Gender and Relationships
 
-### Sociology
+- [** by **]()
 
-- Text: Chapter 1 of *The Sociological Imagination* by *C. Wright Mills*
+### Race
 
-## Alternative and Radical Economics
+#### Indigenous
+
+- [** by **]()
+
+### Egoism
+
+- [** by **]()
+
+### Anti-Work
+
+- [** by **]()
+
+### Alternative and Radical Economics
 
 - Video: [*Social Solidarity Economy in 3 Minutes* by *Nowtopia*](https://www.youtube.com/watch?v=awtGez4HTo0)
 
+### Academic Disciplines
 
-## Anti-Idolisation
+#### Sociology
 
-_
+- Text: Chapter 1 of *The Sociological Imagination* by *C. Wright Mills*
 
-## Anti-Work
+## Social Analysis
 
-_
-
-## Care
-
-_
-
-## Critical Self-Theory
-
-_
-
-
-## Decision Making
-
-_
-
-## Egoism
-
-_
+- [** by **]()
 
 ## Geopolitics and History
 
-_
-
-## Hacking
-
-_
-
-## Indigenous
-
-_
-
-## Mutual Aid
-
-_
-
-## Organising
-
-_
-
-## Relationships
-
-_
-
+- [** by **]()
 
 ## Miscellaneous
 
 ### Solarpunk
 
-_
+- [** by **]()
 
 ### Interesting
 
 This is a small sections of texts and videos that I found interesting and/or fun to read, but only contributed very little or nothing to my [Critical Self-Theory](#critical-self-theory)
+
+- [** by **]()
