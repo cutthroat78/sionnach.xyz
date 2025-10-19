@@ -174,8 +174,8 @@ Each of these are a text or video that I recommend for anyone who is a beginner 
 
 #### Russia's Invasion of Ukraine
 
-- [*A conversation with anarchists from Ecoplatform fighting in Ukraine* by *Prameń*](https://theanarchistlibrary.org/library/pramen-a-conversation-with-anarchists-from-ecoplatform-fighting-in-ukraine)
-- [*Interview with an anti-militarist from Odessa* by *Vadym Yakovlev, Československé anarchistické sdružení, and Martin (ČAS)*](https://theanarchistlibrary.org/library/vadym-yakovlev-interview-with-an-anti-militarist-from-odessa)
+- Text: [*A conversation with anarchists from Ecoplatform fighting in Ukraine* by *Prameń*](https://theanarchistlibrary.org/library/pramen-a-conversation-with-anarchists-from-ecoplatform-fighting-in-ukraine)
+- Text: [*Interview with an anti-militarist from Odessa* by *Vadym Yakovlev, Československé anarchistické sdružení, and Martin (ČAS)*](https://theanarchistlibrary.org/library/vadym-yakovlev-interview-with-an-anti-militarist-from-odessa)
 
 ### Turtle Island (North America)
 
