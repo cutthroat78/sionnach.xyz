@@ -12,7 +12,8 @@ Each of these are a text or video that I recommend for anyone who is a beginner 
 - Video: [*How Anarchy Works* by *Andrewism*](https://www.youtube.com/watch?v=lrTzjaXskUU)
 - Text: [*What is Prefigurative Politics?* by *Prefigurative Action*](https://www.instagram.com/p/DORvu-9Eh38/)
   - [PDF Version](/texts/introduction/What-Is-Prefigurative-Politics-by-Prefigurative-Action.pdf)
-- Text: [*anarchism starts in the now: hope for a better future* by *maia arson crimew*](https://theanarchistlibrary.org/library/maia-arson-crimew-anarchism-starts-in-the-now-hope-for-a-better-future-1)
+- Text: [*anarchism starts in the now: hope for a better future* by *maia arson crimew*](https://maia.crimew.gay/posts/anarchism-in-the-now/)
+  - [The Anarchist Library](https://theanarchistlibrary.org/library/maia-arson-crimew-anarchism-starts-in-the-now-hope-for-a-better-future-1)
 - Text: [*Your Politics Are Boring As Fuck* by *Nadia C. (CrimethInc.)*](https://theanarchistlibrary.org/library/nadia-c-from-crimethinc-your-politics-are-boring-as-fuck)
 
 ## Praxis (Taking Action)
