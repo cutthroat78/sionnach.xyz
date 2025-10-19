@@ -172,9 +172,10 @@ Each of these are a text or video that I recommend for anyone who is a beginner 
 
 - Text: [*Destabilization of Russia as a way to freedom in Belarus* by *Prameń*](https://theanarchistlibrary.org/library/pramen-destabilization-of-russia-as-a-way-to-freedom-in-belarus)
 
-<!--#### Russia's Invasion of Ukraine
+#### Russia's Invasion of Ukraine
 
-- [** by **]()-->
+- [*A conversation with anarchists from Ecoplatform fighting in Ukraine* by *Prameń*](https://theanarchistlibrary.org/library/pramen-a-conversation-with-anarchists-from-ecoplatform-fighting-in-ukraine)
+- [*Interview with an anti-militarist from Odessa* by *Vadym Yakovlev, Československé anarchistické sdružení, and Martin (ČAS)*](https://theanarchistlibrary.org/library/vadym-yakovlev-interview-with-an-anti-militarist-from-odessa)
 
 ### Turtle Island (North America)
 
