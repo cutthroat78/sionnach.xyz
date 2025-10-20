@@ -78,9 +78,15 @@ Each of these are a text or video that I recommend for anyone who is a beginner 
 - Text: [*Know Your Human Rights At A Protest Or Action* by *Across Frontlines*](https://static1.squarespace.com/static/5aba56055cfd7903fb58b526/t/5fa45ae634bc5344066bf66c/1604606694519/knowyourrightsatprotest_1pager.pdf)
   - Note: This is made for protesting in the USA
 
-#### Hacking
+#### Technology
+
+##### Hacking
 
 - Text: [*The Hacker's Renaissance: A Manifesto Reborn* by *TMZ*](https://www.neperos.com/article/t1dzdia5ba046b91)
+
+##### Digital Piracy
+
+- Text: [*Raise The Black Flag* by *Anonymous*](https://www.sproutdistro.com/catalog/zines/diy/raise-the-black-flag/)
 
 #### Action For Palestine
 
@@ -112,11 +118,17 @@ Each of these are a text or video that I recommend for anyone who is a beginner 
 
 ### Race
 
-#### Indigenous
+#### Indigenous Americans
 
 - Text: [*Our veins run with water, not oil* by *Seb Bonet*](https://theanarchistlibrary.org/library/seb-bonet-our-veins-run-with-water-not-oil)
 - Text: [*Towards An Indigenous Egoism* by *Cante Waste (Good Heart)*](https://unsettlingamerica.wordpress.com/2012/04/19/towards-an-indigenous-egoism/)
   - [The Anarchist Library](https://theanarchistlibrary.org/library/cante-waste-good-heart-towards-an-indigenous-egoism)
+
+### Anti-Imperialism
+
+- Text: [*The ‘anti-imperialism’ of idiots* by *Leila Al Shami*](https://leilashami.wordpress.com/2018/04/14/the-anti-imperialism-of-idiots/)
+  - [The Anarchist Library](https://theanarchistlibrary.org/library/leila-al-shami-the-anti-imperialism-of-idiots)
+  - [Libcom.org](https://libcom.org/article/anti-imperialism-idiots-leila-al-shami)
 
 ### Egoism
 
