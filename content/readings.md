@@ -15,6 +15,8 @@ Each of these are a text or video that I recommend for anyone who is a beginner 
 - Text: [*anarchism starts in the now: hope for a better future* by *maia arson crimew*](https://maia.crimew.gay/posts/anarchism-in-the-now/)
   - [The Anarchist Library](https://theanarchistlibrary.org/library/maia-arson-crimew-anarchism-starts-in-the-now-hope-for-a-better-future-1)
 - Text: [*Your Politics Are Boring As Fuck* by *Nadia C. (CrimethInc.)*](https://theanarchistlibrary.org/library/nadia-c-from-crimethinc-your-politics-are-boring-as-fuck)
+- Text: [*If you want a revolution, learn to write, communicate and nourish your creative expression* by *loismac_*, *feminist* and *maiaben*](https://www.instagram.com/p/DPCUrcAASh2/)
+  - [PDF Version](/texts/introduction/If-you-want-a-revolution-learn-to-write-communicate-and-nourish-your-creative-expression-by-loismac_-feminist-and-maiaben.pdf)
 
 ## Praxis (Taking Action)
 
@@ -124,11 +126,13 @@ Each of these are a text or video that I recommend for anyone who is a beginner 
 - Text: [*Towards An Indigenous Egoism* by *Cante Waste (Good Heart)*](https://unsettlingamerica.wordpress.com/2012/04/19/towards-an-indigenous-egoism/)
   - [The Anarchist Library](https://theanarchistlibrary.org/library/cante-waste-good-heart-towards-an-indigenous-egoism)
 
-### Anti-Imperialism
+### Decolonisation and Anti-Imperialism
 
 - Text: [*The ‘anti-imperialism’ of idiots* by *Leila Al Shami*](https://leilashami.wordpress.com/2018/04/14/the-anti-imperialism-of-idiots/)
   - [The Anarchist Library](https://theanarchistlibrary.org/library/leila-al-shami-the-anti-imperialism-of-idiots)
   - [Libcom.org](https://libcom.org/article/anti-imperialism-idiots-leila-al-shami)
+- Text: [*Decolonization as a Prefigurative Praxis* by *Prefigurative Action*](https://www.instagram.com/p/DPZhct-kltb/)
+  - [PDF Version](/texts/theory-and-philosophy/decolonisation-and-anti-imperialism/Decolonization-as-a-Prefigurative-Praxis-by-Prefigurative-Action.pdf)
 
 ### Egoism
 
