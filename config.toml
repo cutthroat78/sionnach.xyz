@@ -13,7 +13,6 @@ disableKinds = ["taxonomy", "term"]
     { link = { href = "readings/", text = "Recommended Reading", target = "_self" } },
     { kofi = { href = "https://ko-fi.com/sionnachxyz", text = "Donate (Ko-Fi)" } },
     { youtube = "https://youtube.com/@sionnachxyz" },
-    { instagram = "https://blackscreen.app/" },
   ]
 
 [markup.highlight]
