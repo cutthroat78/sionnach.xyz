@@ -10,3 +10,19 @@
 .link-ainriail {
   background: rgb(0, 0, 0);
 }
+.link-writing {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 0, 0, 1) 100%
+  );
+}
+.link-reading {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(0, 255, 0, 1) 100%
+  );
+}
