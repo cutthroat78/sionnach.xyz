@@ -6,7 +6,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
   name = "Sionnach"
-  headline = "Anarchist in Ireland hoping to actually write and realise something at some point. I will write about what I like, which could include, but not limited to queerness, transness, non-monogamy and relationship anarchy, neurodivergence, anarchism, solarpunk, Irish politics, computers and FOSS, art, philosophy, sociology, history, anthropology or whatever else I else may take my interest"
+  headline = "Irish anarchist who will hopefully write something someday<br>I encourage you to reduce your time on social media and use more ethical and healthy alternatives or get involved and take prefigurative action in real life<br>I like to print and freely distritube zines maker. If you would like me to give out zines at an event, get in contact!"
   image = "favicon.png"
   links = [
     { writing = { href = "writings/", text = "My Writings" } },
