@@ -11,18 +11,8 @@
   background: rgb(0, 0, 0);
 }
 .link-writing {
-  background: rgb(131, 58, 180);
-  background: linear-gradient(
-    90deg,
-    rgba(0, 0, 0, 1) 0%,
-    rgba(255, 0, 0, 1) 100%
-  );
+  background: rgb(40, 167, 69);
 }
 .link-reading {
-  background: rgb(131, 58, 180);
-  background: linear-gradient(
-    90deg,
-    rgba(0, 0, 0, 1) 0%,
-    rgba(0, 255, 0, 1) 100%
-  );
+  background: rgb(0, 86, 179);
 }
