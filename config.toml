@@ -6,15 +6,15 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
   name = "Sionnach"
-  headline = "Anarchist in Ireland. I write about what I like, which can include, but not limited to queerness, transness, non-monogamy and relationship anarchy, neurodivergence, anarchism, solarpunk, Irish politics, computers and FOSS, art, philosophy, sociology, history, anthropology or whatever else I may into or thinking about"
+  headline = "Anarchist in Ireland hoping to actually write and realise something at some point. I will write about what I like, which could include, but not limited to queerness, transness, non-monogamy and relationship anarchy, neurodivergence, anarchism, solarpunk, Irish politics, computers and FOSS, art, philosophy, sociology, history, anthropology or whatever else I else may take my interest"
   image = "favicon.png"
   links = [
     { writing = { href = "writings/", text = "My Writings" } },
     { reading = { href = "readings/", text = "Recommended Reading" } },
     { kofi = { href = "https://ko-fi.com/sionnachxyz", text = "Donate (Ko-Fi)" } },
-    { email = { href = "mailto:contact-sionnach.truffle781@slmails.com", text = "Contact (Email)" } },
     { ainriail = { href = "https://ainriail.org", text = "Ainriail - Dublin Event Noticeboard" } },
     { youtube = "https://youtube.com/@sionnachxyz" },
+    { email = { href = "mailto:contact-sionnach.truffle781@slmails.com", text = "Contact (Email)" } },
   ]
 
 [markup.highlight]

@@ -2,4 +2,4 @@
 title: "Writings"
 ---
 
-## To Do
+## Unfortunately nothing published yet, but hopefully I will have something out soon!
