@@ -12,7 +12,7 @@ disableKinds = ["taxonomy", "term"]
     { writing = { href = "writings/", text = "Writings" } },
     { reading = { href = "readings/", text = "Recommended Reading" } },
     { kofi = { href = "https://ko-fi.com/sionnachxyz", text = "Donate (Ko-Fi)" } },
-    { email = { href = "contact-sionnach.truffle781@slmails.com", text = "Contact (Email)" } },
+    { email = { href = "mailto:contact-sionnach.truffle781@slmails.com", text = "Contact (Email)" } },
     { ainriail = { href = "https://ainriail.org", text = "Ainriail - Dublin Event Noticeboard" } },
     { youtube = "https://youtube.com/@sionnachxyz" },
   ]
