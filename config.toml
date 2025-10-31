@@ -9,7 +9,7 @@ disableKinds = ["taxonomy", "term"]
   headline = "Anarchist in Ireland. I write about what I like, which can include, but not limited to queerness, transness, non-monogamy and relationship anarchy, neurodivergence, anarchism, solarpunk, Irish politics, computers and FOSS, art, philosophy, sociology, history, anthropology or whatever else I may into or thinking about"
   image = "favicon.png"
   links = [
-    { writing = { href = "writings/", text = "Writings" } },
+    { writing = { href = "writings/", text = "My Writings" } },
     { reading = { href = "readings/", text = "Recommended Reading" } },
     { kofi = { href = "https://ko-fi.com/sionnachxyz", text = "Donate (Ko-Fi)" } },
     { email = { href = "mailto:contact-sionnach.truffle781@slmails.com", text = "Contact (Email)" } },
