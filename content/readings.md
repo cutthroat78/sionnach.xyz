@@ -98,7 +98,7 @@ Each of these are a text or video that I recommend for anyone who is a beginner 
 
 ### Critical Self-Theory
 
-- Text: [*Critical Self-Theory* by *Jason McQuinn*](https://theanarchistlibrary.org/library/jason-mcquinn-critical-self-theory-the-non-ideological-critique-of-ideology)
+- Text: [*Critical Self-Theory* by *Jason McQuinn*](https://theanarchistlibrary.org/library/jason-mcquinn-critical-self-theory)
 
 ### Queerness, Gender and Relationships
 
