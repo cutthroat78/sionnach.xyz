@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
   image = "favicon.png"
   links = [
     { writing = { href = "writings/", text = "My Writings" } },
-    { reading = { href = "readings/", text = "Recommended Reading" } },
+    { reading = { href = "readings/", text = "Resources and Recommended Reading" } },
     { mastodon = "https://kolektiva.social/@Sionnach" },
     { kofi = { href = "https://ko-fi.com/sionnachxyz", text = "Donate (Ko-Fi)" } },
     { ainriail = { href = "https://ainriail.org", text = "Ainriail - Dublin Event Noticeboard" } },
