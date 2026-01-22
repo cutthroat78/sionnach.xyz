@@ -55,9 +55,12 @@ I used to keep the "Praxis (Taking Action)" and the "Theory and Philosophy" sect
 - Picture (Diagram): [*Mutual Aid Theory & Practise* by *Lizartistry Graphics*](https://www.instagram.com/p/DDFbtGPNRtf)
   - [Non Social Media Version](/texts/praxis/prefiguration/mutual-aid/mutual-aid-diagram.jpg)
 
-<!--##### Free Argos Catalogue
+##### Free Argos Catalogue
 
-- [** by **]()-->
+A mutual aid idea of a catalogue that allows member to advertise their skills, goods and other mutual aid opportunities to others.
+
+- [*Argo's Free Catalogue* by *Spec*](/texts/praxis/prefiguration/mutual-aid/free-argos-catalogue/argos-free-catalogue-spec.pdf)
+- [*Ordering and Using Free Argos* by *Spec*](/texts/praxis/prefiguration/mutual-aid/free-argos-catalogue/ordering-and-using-free-argos-spec.pdf)
 
 #### Organising
 
@@ -254,6 +257,10 @@ There is quite a bit of links and resources in this section, which can be daunti
 - Text: Chapter 1 of *The Sociological Imagination* by *C. Wright Mills*
 
 ## Social Analysis
+
+### Hierarchy, Oppression, Domination and Subordination
+
+- Text: [*Schüssler Fiorenza’s ‘kyriarchy’ pits courage and creativity against Empire* by *David P Ball*](https://davidpball.com/2012/11/01/schussler-fiorenzas-kyriarchy-pits-courage-and-creativity-against-empire/)
 
 ### Media, Social Media and Social Engineering
 
